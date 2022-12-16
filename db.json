@@ -1,0 +1,2031 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "gautam",
+      "mob": 7870795442
+    }
+  ],
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": "BBC Sport",
+      "title": "Shane Warne memorial - watch & follow updates",
+      "description": "Watch live coverage and follow text updates and tributes from the state memorial for Australian cricket legend Shane Warne at the Melbourne Cricket Ground.",
+      "url": "http://www.bbc.co.uk/sport/live/cricket/60916236",
+      "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.22.0/images/bbc-sport-logo.png",
+      "publishedAt": "2022-03-30T08:22:26.498888Z",
+      "content": "Former England bowler and BBC cricket presenter Isa Guha, who became a colleague of Warne's in the commentary box: \"It has been a strange few weeks - a lot of shock and then we did our own tribute at… [+396 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Jody Serrano",
+      "title": "Elon Subpoenas Twitter Whistleblower to Testify About Counting Bots",
+      "description": "There’s a new twist in As Elon’s World Turns, which is what I imagine the tech billionaire’s soap opera would be called. After months of Musk claiming bots were the reason he wanted to terminate his deal to buy the social media company, a Twitter whistleblowe…",
+      "url": "https://gizmodo.com/elon-musk-subpoenas-twitter-peiter-zatko-spam-bots-1849448118",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e36f8ecaf305caff4b8f7c361088e7c2.jpg",
+      "publishedAt": "2022-08-23T21:29:00Z",
+      "content": "Theres a new twist in As Elons World Turns, which is what I imagine the tech billionaires soap opera would be called. After months of Musk claiming bots were the reason he wanted to terminate his dea… [+4509 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Ben Stokes: Joe Root praises 'brave' England captain for comments on mental health",
+      "description": "Joe Root praises \"brave\" England captain Ben Stokes for speaking about his struggle with mental health.",
+      "url": "https://www.bbc.co.uk/sport/cricket/62650247",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/8913/production/_126419053_benstokesandjoeroot.jpg",
+      "publishedAt": "2022-08-23T14:27:32Z",
+      "content": "Ben Stokes took over from Joe Root as England Test captain at the beginning of the summer\r\nJoe Root has praised \"brave\" England captain Ben Stokes for speaking about his struggles with his mental hea… [+3296 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Ben Stokes: England Test captain feared he may never play again during mental health struggles",
+      "description": "England Test captain Ben Stokes says he feared he may not play again during his mental health break from the sport.",
+      "url": "https://www.bbc.co.uk/sport/cricket/62608060",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/1780C/production/_126386269_stokes_getty.jpg",
+      "publishedAt": "2022-08-23T05:40:10Z",
+      "content": "England Test captain Ben Stokes talks to BBC Breakfast about prioritising mental health\r\nEngland Test captain Ben Stokes says he feared he may not play again during his mental health break from the s… [+4848 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "India coach Dravid tests positive for COVID, to join Asia Cup squad later - Reuters",
+      "description": "India head coach Rahul Dravid has tested positive for COVID-19 and will join the Asia Cup squad later in the United Arab Emirates, the country's cricket board (BCCI) said on Tuesday.",
+      "url": "https://www.reuters.com/lifestyle/sports/india-coach-dravid-tests-positive-covid-join-asia-cup-squad-later-2022-08-23/",
+      "urlToImage": "https://www.reuters.com/resizer/1NZ-Df8y3WitfPPMqsQ5MRM-Xec=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RLGMRZRR5FNSHCVC2HO4DN4ZAA.jpg",
+      "publishedAt": "2022-08-23T07:01:00Z",
+      "content": "NEW DELHI, Aug 23 (Reuters) - India head coach Rahul Dravid has tested positive for COVID-19 and will join the Asia Cup squad later in the United Arab Emirates, the country's cricket board (BCCI) sai… [+648 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "England's Stokes opens up about anxiety medication - Reuters",
+      "description": "England test captain Ben Stokes kept the dialogue on mental health going as the all-rounder revealed he was still on anxiety medication after returning from a six-month break to focus on his wellbeing.",
+      "url": "https://www.reuters.com/lifestyle/sports/englands-stokes-opens-up-about-anxiety-medication-2022-08-23/",
+      "urlToImage": "https://www.reuters.com/resizer/XaAgc7An2ZPrJHwaJedZCT5Xya0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YFGAENOWSJKRVKZDFJMXELHZKE.jpg",
+      "publishedAt": "2022-08-23T00:19:00Z",
+      "content": "Aug 23 (Reuters) - England test captain Ben Stokes kept the dialogue on mental health going as the all-rounder revealed he was still on anxiety medication after returning from a six-month break to fo… [+1806 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "India's Gill dedicates maiden ton to hard-to-please dad - Reuters",
+      "description": "India's Shubman Gill dedicated his maiden international hundred to his father after getting \"schooled\" by him for missing the mark earlier, the top order batsman said after his match-winning 130 in the third one-dayer against Zimbabwe in Harare.",
+      "url": "https://www.reuters.com/lifestyle/sports/indias-gill-dedicates-maiden-ton-hard-to-please-dad-2022-08-23/",
+      "urlToImage": "https://www.reuters.com/resizer/sOZh8dz26R4EAASh2u8KnpBIByY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V6MOHZZDVNPLDEFJM6MCRNUMPI.jpg",
+      "publishedAt": "2022-08-23T05:21:00Z",
+      "content": "Aug 23 (Reuters) - India's Shubman Gill dedicated his maiden international hundred to his father after getting \"schooled\" by him for missing the mark earlier, the top order batsman said after his mat… [+1632 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Jonathan Liew",
+      "title": "Battle for cricket’s future has already been won but Tests can still retain their shine | Jonathan Liew",
+      "description": "The IPL’s £5.2bn deal shows where the game is headed but less international cricket might actually make it feel more specialSo what did you do during the great English Cricket Culture Wars? Did you set up a burner Twitter account and start spamming George Dob…",
+      "url": "https://amp.theguardian.com/sport/blog/2022/aug/23/battle-for-crickets-future-has-already-been-won-but-tests-can-still-retain-their-shine",
+      "urlToImage": "https://i.guim.co.uk/img/media/52b409e4acdb1d719ad87d995fd1d18bf37e20a5/0_98_5427_3256/master/5427.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=c31fd13a7e72eca2c432986964b8c3f2",
+      "publishedAt": "2022-08-23T07:00:04Z",
+      "content": "So what did you do during the great English Cricket Culture Wars? Did you set up a burner Twitter account and start spamming George Dobell? Did you start a furious argument about state schools and fr… [+5700 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Simon Burnton",
+      "title": "‘It’s a great wake-up call’: Joe Root praises Ben Stokes’ openness",
+      "description": "<ul><li>Root says film shows things he wasn’t aware of</li><li>‘It’s not easy to see a close friend and teammate like that’</li></ul>Joe Root has praised Ben Stokes’s courage in dealing so frankly with his off‑pitch issues in his new Amazon documentary, predi…",
+      "url": "https://amp.theguardian.com/sport/2022/aug/23/joe-root-praises-ben-stokes-openness-england-south-africa",
+      "urlToImage": "https://i.guim.co.uk/img/media/8ddb2fded5dac4113832aafe5492b3e6d8d4f60d/0_64_2739_1644/master/2739.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7cc06a9e225e869177124968dc1ab594",
+      "publishedAt": "2022-08-23T17:00:11Z",
+      "content": "Joe Root has praised Ben Stokess courage in dealing so frankly with his offpitch issues in his new Amazon documentary, predicting the England Test captains openness will better the environment were p… [+3903 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Daniel Gallan",
+      "title": "England can hit back against South Africa by exposing batting frailty | Daniel Gallan",
+      "description": "Innings defeat for Ben Stokes’ side in the first Test could be turned around if his bowlers raise their game at Old TraffordAfter his side’s thumping victory at Lord’s last week the South Africa captain, Dean Elgar, praised his batting unit’s ability to score…",
+      "url": "https://amp.theguardian.com/sport/blog/2022/aug/23/england-can-hit-back-south-africa-by-exposing-batting-frailty-old-trafford-cricket",
+      "urlToImage": "https://i.guim.co.uk/img/media/fae72a7093f2d95091adc95b43d45887289d6c3f/0_343_3403_2043/master/3403.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6b1a14d88f6dba606852bed9ae96cb01",
+      "publishedAt": "2022-08-23T16:24:13Z",
+      "content": "After his sides thumping victory at Lords last week the South Africa captain, Dean Elgar, praised his batting units ability to score ugly runs. For a man whose own technique has been compared to a sc… [+5298 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Olivia Stewart",
+      "title": "‘Make it more noisy’: the young dancer shaking up Australian ballet",
+      "description": "To launch a major international gala independently, amid a global pandemic, should have been impossible. But 22-year-old Joel Burke is just getting started<ul><li>Get our weekend culture and lifestyle email</li></ul>Classical ballet has never found it easy to…",
+      "url": "https://amp.theguardian.com/stage/2022/aug/24/make-it-more-noisy-the-young-dancer-shaking-up-australian-ballet",
+      "urlToImage": "https://i.guim.co.uk/img/media/879020dba0c996b82573c7e4b2371faa08cdc2fa/717_675_5038_3023/master/5038.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e1a073c5673820926640d5e992c757d",
+      "publishedAt": "2022-08-23T17:30:13Z",
+      "content": "Classical ballet has never found it easy to connect to the masses but Joel Burke, a 22-year-old dancer from Brisbane, reckons inspiration could be found in an unlikely place: the Ultimate Fighting Ch… [+7717 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Sara Morrison",
+      "title": "Twitter’s whistleblower problem is way bigger than Elon Musk’s bot complaints",
+      "description": "The former Twitter employee is accusing the company of lying to just about everyone.",
+      "url": "https://www.vox.com/recode/2022/8/23/23318503/twitter-whistleblower-peiter-mudge-zatko-elon-musk-bots",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/8EINFjoQxokzhgVgjqL5SAkNozU=/0x645:4500x3001/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23966844/1242323294.jpg",
+      "publishedAt": "2022-08-23T23:45:54Z",
+      "content": "Samuel Corum/AFP via Getty Images\r\n\n \n\n Former Twitter employee Peiter Zatko is accusing the company of lying to just about everyone. When Peiter Zatko, the famous hacker best known as Mudge, got the… [+8163 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "The Hundred: Sophie Ecclestone breaks down her bowling technique with Danni Wyatt & Chris Hughes",
+      "description": "Sophie Ecclestone, the world's number one-ranked bowler in women's cricket, breaks down her bowling technique with Danni Wyatt and Chris Hughes.",
+      "url": "https://www.bbc.co.uk/sport/av/62638765",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/110F8/production/_126408896_p0cpmlc0.jpg",
+      "publishedAt": "2022-08-23T05:14:31Z",
+      "content": "Manchester Originals' Sophie Ecclestone, the world's number one-ranked bowler in women's cricket, breaks down her bowling technique with Southern Brave batter Danni Wyatt and Chris Hughes.\r\nWATCH MOR… [+101 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Jamie Grierson",
+      "title": "AA issues traffic warning for bank holiday weekend as 15m trips planned",
+      "description": "The last public holiday of summer comes during a weekend of sport events and festivals such as Reading and LeedsAn amber traffic warning has been issued for this weekend, when an estimated 15m bank holiday leisure trips are scheduled.The AA published the aler…",
+      "url": "https://amp.theguardian.com/world/2022/aug/23/aa-issues-traffic-warning-for-bank-holiday-weekend-as-15m-trips-planned",
+      "urlToImage": "https://i.guim.co.uk/img/media/2d042ebc5bdcdc2985829e20686269fbcc29468a/0_69_5500_3300/master/5500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=396765e9f3fdc1dcb1c77f30eb1f4970",
+      "publishedAt": "2022-08-23T05:00:02Z",
+      "content": "An amber traffic warning has been issued for this weekend, when an estimated 15m bank holiday leisure trips are scheduled.\r\nThe AA published the alert, which is only the second such warning to be iss… [+3619 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Telegraph.co.uk"
+      },
+      "author": "Telegraph Sport",
+      "title": "The Hundred fixtures list 2022: When are the matches and how does the tournament work",
+      "description": "Here's all you need to know about the second edition of the 100-ball competition which features eight city-based teams",
+      "url": "https://www.telegraph.co.uk/cricket/2022/08/23/the-hundred-cricket-fixtures-2022-matches-how-tournament-work/",
+      "urlToImage": "https://www.telegraph.co.uk/content/dam/cricket/2022/08/20/TELEMMGLPICT000306311528_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg.jpeg?impolicy=logo-overlay",
+      "publishedAt": "2022-08-23T06:27:11Z",
+      "content": "The Hundred's second edition is under way, with the ECB hoping to build on the inaugural tournament last year.\r\nThe new format gives each team one hundred bowls to take 10 wickets, compared to the sl… [+1004 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Telegraph.co.uk"
+      },
+      "author": "Tim Wigmore",
+      "title": "Ben Stokes' openness over mental health issues shows 'it's OK to not be OK'",
+      "description": "Joe Root hails his ‘superhuman’ successor as England captain for speaking out on his struggles after watching him cope with anxiety issues",
+      "url": "https://www.telegraph.co.uk/cricket/2022/08/23/ben-stokes-openness-mental-health-issues-shows-ok-not-ok/",
+      "urlToImage": "https://www.telegraph.co.uk/content/dam/cricket/2022/08/23/TELEMMGLPICT000236633314_trans_NvBQzQNjv4BqFQfAtbbiWQ9LTv4s2yItsxOXwGTuLAhGBHV-QY-Hqkg.jpeg?impolicy=logo-overlay",
+      "publishedAt": "2022-08-23T14:06:23Z",
+      "content": "Joe Root hailed the bravery of Ben Stokes after the England Test captain revealed that he is taking medication for anxiety due to his ongoing mental health issues as he continues to struggle with the… [+2469 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Telegraph.co.uk"
+      },
+      "author": "Telegraph Sport",
+      "title": "What is the Hundred? The rules, teams and players as 100-ball tournament returns in 2022",
+      "description": "The full list of men's and women's squads for the second edition of the ECB's new white-ball tournament",
+      "url": "https://www.telegraph.co.uk/cricket/2022/08/23/what-is-the-hundred-teams-rules-players-cricket-tournament-2022/",
+      "urlToImage": "https://www.telegraph.co.uk/content/dam/cricket/2022/08/18/TELEMMGLPICT000306140209_trans_NvBQzQNjv4BqH8oGYaaASnJZUiuddQ1p_7mpu42r6n7OLzlToLFXwsU.jpeg?impolicy=logo-overlay",
+      "publishedAt": "2022-08-23T06:28:17Z",
+      "content": "The decision review system using Hawkeye is available for the first time in domestic cricket in England as well as a smart replay system that automatically calls no balls (which result in a free hit)… [+4975 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Telegraph.co.uk"
+      },
+      "author": "Nick Hoult",
+      "title": "Lord Patel 'was target' of Ben Stokes' F-word blast",
+      "description": "Stokes has opened up about his lingering animosity towards ECB officials",
+      "url": "https://www.telegraph.co.uk/cricket/2022/08/23/lord-patel-target-ben-stokes-f-word-blast/",
+      "urlToImage": "https://www.telegraph.co.uk/content/dam/cricket/2022/08/23/TELEMMGLPICT000278553333_trans_NvBQzQNjv4BqbFWWpigZGUS2rP-sASCChlHmPOpeFd0SyQx9dn7kM_w.jpeg?impolicy=logo-overlay",
+      "publishedAt": "2022-08-23T22:47:33Z",
+      "content": "Lord Patel, the Yorkshire chairman, is understood to be the England &amp; Wales Cricket Board official that Ben Stokes told to f--- off on the night of the World Cup final in July 2019.\r\nPatel was, a… [+2423 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "Tom Chesshyre",
+      "title": "Discovering how cricket-themed holidays can cast a very sociable spell, from Grenada to South Africa",
+      "description": "Describing the advantages of a cricket-themed holiday, Tom Chesshyre says: 'You make friends in the stands, enjoy the game, and the place you are visiting comes alive.'",
+      "url": "https://www.dailymail.co.uk/travel/escape/article-11129409/Discovering-cricket-themed-holidays-cast-sociable-spell-Grenada-South-Africa.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2022/08/22/09/61602341-0-image-a-3_1661158159695.jpg",
+      "publishedAt": "2022-08-23T07:44:10Z",
+      "content": "Down on Grand Anse beach in Grenada, theres a fierce showdown. \r\nThe Barmy Army of England cricket fans, adults and kids, is playing against locals (with a tennis ball, so not so fierce).\r\nAbout 50 o… [+1813 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Johnaugust.com"
+      },
+      "author": "Megana Rao",
+      "title": "Scriptnotes, Episode 562: Finish Line Blues, Transcript",
+      "description": "The original post for this episode can be found here. John August: Hello and welcome. My name is John August. Craig Mazin: Okay, okay, my name is Craig Mazin. John: This is Episode 562 of Scriptnotes. It’s a podcast about screenwriting and things that are int…",
+      "url": "https://johnaugust.com/2022/scriptnotes-episode-562-finish-line-blues-transcript",
+      "urlToImage": "https://johnaugust.com/wp-content/uploads/2021/04/ja-tw-card-small.png",
+      "publishedAt": "2022-08-23T20:32:04Z",
+      "content": "The original post for this episode can be found here.\r\nJohn August: Hello and welcome. My name is John August.\r\nCraig Mazin: Okay, okay, my name is Craig Mazin.\r\nJohn: This is Episode 562 of Scriptno… [+70593 chars]"
+    },
+    {
+      "source": {
+        "id": "le-monde",
+        "name": "Le Monde"
+      },
+      "author": "Sophie Landrin",
+      "title": "Au Pakistan, la guerre entre Imran Khan et son successeur plonge le pays dans l’incertitude",
+      "description": "L’ancien premier ministre, renversé par une motion de défiance en avril, risque la prison, accusé d’avoir violé la loi antiterroriste.",
+      "url": "https://www.lemonde.fr/international/article/2022/08/23/au-pakistan-la-guerre-entre-imran-khan-et-son-successeur-plonge-le-pays-dans-l-incertitude_6138793_3210.html",
+      "urlToImage": "https://img.lemde.fr/2022/08/23/0/0/4524/3016/1440/960/60/0/738fd85_1661225260188-953141.jpg",
+      "publishedAt": "2022-08-23T16:00:12Z",
+      "content": "Un vendeur de rue propose des drapeaux du parti dImran Khan, le Pakistan Tehreek-e-Insaf (PTI), non loin de la résidence de lancien premier ministre, à Islamabad, le 22 août 2022. AAMIR QURESHI / AFP… [+2837 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": "Firdose Moonda",
+      "title": "Marco Jansen: 'We don't take anything for granted because Mother Cricket will kick you in the backside'",
+      "description": "South Africa's towering left-arm quick talks about his upbringing and the hard yards to get to the top",
+      "url": "https://www.espncricinfo.com/story/eng-vs-sa-2022-marco-jansen-we-don-t-take-anything-for-granted-because-mother-cricket-will-kick-you-in-the-backside-1330381",
+      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/344400/344483.6.jpg",
+      "publishedAt": "2022-08-23T16:08:47Z",
+      "content": "Marco Jansen, a kid who beat Kohli in the nets, is now a Mumbai Indian"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Columbia Journalism Review"
+      },
+      "author": "Jon Allsop",
+      "title": "Pakistan’s press gets caught in political tumult, again",
+      "description": "<p>“The channel is currently unavailable. Sorry for the inconvenience.” Two weeks ago, this was the message that some viewers in Pakistan saw in place of the regular broadcast of ARY News, a popular network that had just been taken off the air at the instruct…",
+      "url": "https://www.cjr.org/the_media_today/pakistan_khan_charged_press_freedom.php",
+      "urlToImage": "https://www.cjr.org/wp-content/uploads/2022/08/AP_22225471634308-800x419.jpg?122376",
+      "publishedAt": "2022-08-23T13:05:52Z",
+      "content": "The channel is currently unavailable. Sorry for the inconvenience. Two weeks ago, this was the message that some viewers in Pakistan saw in place of the regular broadcast of ARY News, a popular netwo… [+15858 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Jack Seale",
+      "title": "Lion: The Rise and Fall of the Marsh Pride review – yet again, humanity is a malign influence on nature",
+      "description": "This documentary focuses on the Maasai Mara – aka the stars of the BBC’s Big Cat Diary – and our uneasy symbiosis with wildlifeThink about lions, and you’re probably thinking about the Marsh Pride. These cats live on the Maasai Mara game reserve in western Ke…",
+      "url": "https://amp.theguardian.com/tv-and-radio/2022/aug/23/lion-the-rise-and-fall-of-the-marsh-pride-review-yet-again-humanity-is-a-malign-influence-on-nature",
+      "urlToImage": "https://i.guim.co.uk/img/media/b63ac80eaed7417cdd7786ef6bf036c8860b2307/0_68_2048_1229/master/2048.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=794198eda9233acf9902989ae0ea155d",
+      "publishedAt": "2022-08-23T21:30:17Z",
+      "content": "Think about lions, and youre probably thinking about the Marsh Pride. These cats live on the Maasai Mara game reserve in western Kenya and were turned into celebrities in the 2000s by natural history… [+4733 chars]"
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Ed Elliot",
+      "title": "Mason Crane says childhood hero Shane Warne is still in his mind when he bowls",
+      "description": "The 25-year-old believes childhood idol Warne had an “immeasurable impact” on his career.",
+      "url": "https://www.independent.co.uk/sport/cricket/mason-crane-shane-warne-trevor-bayliss-spirit-australian-b2150618.html",
+      "urlToImage": "https://static.independent.co.uk/2022/08/23/09/22225626-d8890c7d-2423-4f62-b7d5-c5077e06de7a.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2022-08-23T08:00:45Z",
+      "content": "London Spirit leg-spinner Mason Crane says words of wisdom from the late Shane Warne still run through his mind when he bowls.\r\nCrane believes childhood idol Warne, who died suddenly in March, had an… [+3695 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Brody Ford, Anna Edgerton and Leah Nylen",
+      "title": "Twitter Faces Legal, Political Peril in Whistle-Blower Case",
+      "description": "(Bloomberg) -- A whistle-blower complaint from Twitter Inc.’s former head of security, claiming severe shortcomings in the social media company’s handling of...",
+      "url": "https://finance.yahoo.com/news/twitter-faces-legal-political-peril-162817507.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/xQ5MVdjlC0G4gmEz0YrQ1Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_politics_602/7e04d44de787a35c602811bb6ea1d245",
+      "publishedAt": "2022-08-23T21:37:21Z",
+      "content": "(Bloomberg) -- A whistle-blower complaint from Twitter Inc.s former head of security, claiming severe shortcomings in the social media companys handling of users personal data, will have wide ramific… [+7728 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Brody Ford, Anna Edgerton and Leah Nylen",
+      "title": "Twitter Faces Legal, Political Peril in Whistle-Blower Case",
+      "description": "(Bloomberg) -- A whistle-blower complaint from Twitter Inc.’s former head of security, claiming severe shortcomings in the social media company’s handling of...",
+      "url": "https://finance.yahoo.com/news/twitter-faces-legal-political-peril-162817440.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Gwqb82paK2EDgoGHBfos2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/7e04d44de787a35c602811bb6ea1d245",
+      "publishedAt": "2022-08-23T17:58:28Z",
+      "content": "(Bloomberg) -- A whistle-blower complaint from Twitter Inc.s former head of security, claiming severe shortcomings in the social media companys handling of users personal data, will have wide ramific… [+7547 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "ABC News",
+      "title": "Rayner to miss Lions' sudden-death final after long tribunal hearing for tackle that left Brown bloodied",
+      "description": "Brisbane will be without Cam Rayner for their do-or-die AFL elimination final against Richmond after he unsuccessfully fought a rough conduct charge.",
+      "url": "https://www.abc.net.au/news/2022-08-23/cam-rayner-to-miss-brisbane-lions-afl-final-tribunal/101363316",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/ad9c80fd7c93989ab2ceae1489de3bd3?impolicy=wcms_crop_resize&cropH=1739&cropW=3092&xPos=41&yPos=83&width=862&height=485",
+      "publishedAt": "2022-08-23T10:36:36Z",
+      "content": "Brisbane dynamo Cam Rayner's bid to be available for the Lions' AFL elimination final has failed after an unsuccessful trip to the tribunal.\r\n<ul><li>The rough conduct charge against Cam Rayner for h… [+2127 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "ABC News",
+      "title": "PM receives rock star welcome as he skulls a drink at Gang of Youths concert",
+      "description": "The Prime Minister is met with loud cheers as he is spotted in the crowd at Sydney's Enmore Theatre for a Gang of Youths concert and takes a leaf out of the late Bob Hawke's book.",
+      "url": "https://www.abc.net.au/news/2022-08-23/anthony-albanese-gang-of-youths-enmore-theatre/101359992",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/dd82149d01a4dcd860a92e4e98602d34?impolicy=wcms_crop_resize&cropH=529&cropW=940&xPos=0&yPos=88&width=862&height=485",
+      "publishedAt": "2022-08-23T00:10:55Z",
+      "content": "It's not often a Prime Minister steals the show at a rock concert but Anthony Albanese certainly came close last night.\r\nThe PM received a rock star welcome at the Gang of Youths concert at Sydney's … [+1368 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "New York Times",
+      "title": "Pakistanâs Imran Khan is now the target of forces he once wielded",
+      "description": "For weeks, Pakistan has been gripped by a political showdown between the ruling establishment and Imran Khan, the former cricket star turned populist politician who was ousted from the prime minister post this year.",
+      "url": "https://www.moneycontrol.com/news/world/pakistans-imran-khan-is-now-the-target-of-forces-he-once-wielded-9076921.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/04/RTXCY2IFR-770x433.jpg",
+      "publishedAt": "2022-08-23T17:18:28Z",
+      "content": "Former Prime Minister Imran Khans allies have been arrested. Media outlets and public figures considered sympathetic to him have been intimidated or silenced. He has been hit with charges under Pakis… [+7934 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Moneycontrol News",
+      "title": "India remain static on third in ICC ODI Team Rankings",
+      "description": "India now have 111 rating points on the back of the 3-0 series win in Harare.",
+      "url": "https://www.moneycontrol.com/news/trends/sports-trends/india-remain-static-on-third-in-icc-odi-team-rankings-9073291.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/03/000_9YY9MQ.jpg",
+      "publishedAt": "2022-08-23T06:54:52Z",
+      "content": "A clean sweep of Zimbabwe helped India maintain their third spot in the latest ICC ODI Team Rankings, released here on Tuesday. India now have 111 rating points on the back of the 3-0 series win in H… [+1222 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo Australia"
+      },
+      "author": "Jody Serrano",
+      "title": "Elon Subpoenas Twitter Whistleblower to Testify About Counting Bots",
+      "description": "There’s a new twist in As Elon’s World Turns, which is what I imagine the tech billionaire’s soap opera would...\nThe post Elon Subpoenas Twitter Whistleblower to Testify About Counting Bots appeared first on Gizmodo Australia.\n\n  Related Stories\r\n<ul><li>Twit…",
+      "url": "https://www.gizmodo.com.au/2022/08/elon-subpoenas-twitter-whistleblower-to-testify-about-counting-bots/",
+      "urlToImage": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/08/24/e36f8ecaf305caff4b8f7c361088e7c2.jpg?quality=80&resize=1280,720",
+      "publishedAt": "2022-08-23T21:29:00Z",
+      "content": "Theres a new twist in As Elons World Turns, which is what I imagine the tech billionaires soap opera would be called. After months of Musk claiming bots were the reason he wanted to terminate his dea… [+4586 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Reuters",
+      "title": "Ben Stokes feared he might not play again after taking break from cricket",
+      "description": "Ben Stokes decided to prioritise his mental health after suffering from a series of panic attacks following the death of his father due to brain cancer almost two years ago.",
+      "url": "https://www.moneycontrol.com/news/trends/sports-trends/ben-stokes-feared-he-might-not-play-again-after-taking-break-from-cricket-9073841.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2019/08/ashes-2019-headingley-ben-stokes-770x433.jpg",
+      "publishedAt": "2022-08-23T08:09:29Z",
+      "content": "England test captain Ben Stokes on Tuesday said he had feared he might not play again after taking an extended break from cricket last year to focus on his wellbeing.\r\nStokes decided to prioritise hi… [+2079 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GeekTyrant"
+      },
+      "author": "Joey Paur",
+      "title": "Disney+ Day Premieres Include Robert Zemeckis' PINOCCHIO, THOR: LOVE AND THUNDER, a New SHE-HULK Episode and More",
+      "description": "Disney+ Day is coming on September 8th and it’s going to include some big premieres and other special perks for subscribers to enjoy! Some of the big premieres will include director Robert Zemeckis’ Pinocchio, Marvel’s Thor: Love and Thunder, Assembled: The M…",
+      "url": "https://geektyrant.com/news/disney-day-premieres-include-robert-zemeckis-pinocchio-thor-love-and-thunder-a-new-she-hulk-episode-and-more",
+      "urlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6303a710a78efe5b3a48b2b6/1661263237104/disney-day-premieres-include-robert-zemeckis-pinocchio-thor-love-and-thunder-a-new-she-hulk-episode-and-more.jpg?format=1500w",
+      "publishedAt": "2022-08-23T14:00:00Z",
+      "content": "Disney+ Day is coming on September 8th and its going to include some big premieres and other special perks for subscribers to enjoy! Some of the big premieres will include director Robert ZemeckisPin… [+12763 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Boston Globe"
+      },
+      "author": "Joseph Menn, Elizabeth Dwoskin and Cat Zakrzewski",
+      "title": "Former security chief claims Twitter buried ‘egregious deficiencies’",
+      "description": "The complaint from former head of security Peiter Zatko, a widely admired hacker known as “Mudge,” depicts Twitter as a chaotic and rudderless company beset by infighting, unable to properly protect its 238 million daily users, including government agencies, …",
+      "url": "https://www.bostonglobe.com/2022/08/23/business/former-security-chief-claims-twitter-buried-egregious-deficiencies-2/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/zTZzD8IrkqUGBzlXhEF_XsWhqJY=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/PWEQDXDRVS5LLBDKVBTA4I6P7I.jpg",
+      "publishedAt": "2022-08-23T20:06:37Z",
+      "content": "WASHINGTON Twitter executives deceived federal regulators and the companys own board of directors about extreme, egregious deficiencies in its defenses against hackers, as well as its meager efforts … [+5938 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cricbuzz"
+      },
+      "author": null,
+      "title": "Mysore Warriors vs Hubli Tigers, Eliminator, Maharaja Trophy KSCA T20 2022 - Cricbuzz",
+      "description": "Follow Mysore Warriors vs Hubli Tigers, Eliminator, Aug 23, Maharaja Trophy KSCA T20 2022 with live Cricket score, ball by ball commentary updates on Cricbuzz",
+      "url": "https://www.cricbuzz.com/cricket-commentary/51147/mw-vs-ht-eliminator-maharaja-trophy-ksca-t20-2022",
+      "urlToImage": null,
+      "publishedAt": "2022-08-23T09:33:11Z",
+      "content": "18:33 Local Time, 13:03 GMT, 18:33 IST: And the Warriors advance. Hubli have been ousted. Nihal Ullal was the anchor who saw this through. He was struggling at the start, almost searching for the bal… [+602 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "International Cricket Council"
+      },
+      "author": "ICC",
+      "title": "Rankings boost for India, Pakistan following dominant series sweeps - ICC Cricket",
+      "description": "<ol><li>Rankings boost for India, Pakistan following dominant series sweeps  ICC Cricket\r\n</li><li>India remain static on third in ICC ODI Team Rankings  Moneycontrol\r\n</li><li>ICC ODI Rankings: India, Pakistan gain rating points after series sweeps in Zimbab…",
+      "url": "https://www.icc-cricket.com/news/2756692",
+      "urlToImage": "https://resources.pulse.icc-cricket.com/ICC/photo/2022/08/23/ac56f5be-f269-41d2-b964-97f2348e595d/India-rankings.jpg",
+      "publishedAt": "2022-08-23T03:46:59Z",
+      "content": "White-ball powerhouses India and Pakistan have been rewarded for recent series sweeps by making ground on the leading teams on the latest set of MRF Tyres ICC ODI Team Rankings.India completed a comp… [+1862 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cricketaddictor.com"
+      },
+      "author": "More by Priyam Singh",
+      "title": "India vs Pakistan:'Rishabh Pant Will Be Preferred Over Dinesh Karthik'- Danish Kaneria Picks India's Playing XI vs Pakistan For Asia Cup 2022 - Cricket Addictor",
+      "description": "<ol><li>India vs Pakistan:'Rishabh Pant Will Be Preferred Over Dinesh Karthik'- Danish Kaneria Picks India's Playing XI vs Pakistan For Asia Cup 2022  Cricket Addictor\r\n</li><li>'If Kohli hits 50 in 1st game, mouths will be shut': Shastri ahead of IND vs PAK …",
+      "url": "https://cricketaddictor.com/asia-cup-2022/india-vs-pakistanrishabh-pant-will-be-preferred-over-dinesh-karthik-danish-kaneria-picks-indias-playing-xi-vs-pakistan-for-asia-cup-2022/",
+      "urlToImage": "https://i0.wp.com/cricketaddictor.com/wp-content/uploads/2022/08/Danish-Kaneria-India.jpg",
+      "publishedAt": "2022-08-23T02:42:12Z",
+      "content": "Former Pakistan spinner Danish Kaneria has picked India’s Playing XI for the high-octane clash against Pakistan in the Asia Cup 2022. India and Pakistan will lock horns against each other in their op… [+3586 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Sports Desk",
+      "title": "Pujara goes past Kohli, Babar in elusive list with fiery ton off just 75 balls - Hindustan Times",
+      "description": "<ol><li>Pujara goes past Kohli, Babar in elusive list with fiery ton off just 75 balls  Hindustan Times\r\n</li><li>Watch: Cheteshwar Pujara Scores Third Quick-fire Ton, Helps Sussex Notch 400 In Royal London One-Day..  NDTV Sports\r\n</li><li>Cheteshwar Pujara s…",
+      "url": "https://www.hindustantimes.com/cricket/cheteshwar-pujara-goes-past-virat-kohli-babar-azam-in-elusive-list-with-quickfire-century-off-just-75-balls-for-sussex-in-royal-london-cup-101661266093806.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/08/23/1600x900/New_Project_-_2022-08-23T202219.269_1661266454159_1661266465191_1661266465191.jpg",
+      "publishedAt": "2022-08-23T15:20:25Z",
+      "content": "Away from the preparations for the Asia Cup tournament and the selection headaches surrounding it for the Indian team, veteran batter Cheteshwar Pujara continued his scintillating form in the ongoing… [+1764 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News18"
+      },
+      "author": "Cricketnext Staff",
+      "title": "'Take Couple of Paracetamols And Rahul Dravid Would be Back in Time For India vs Pakistan': Ravi Shastri - News18",
+      "description": "<ol><li>'Take Couple of Paracetamols And Rahul Dravid Would be Back in Time For India vs Pakistan': Ravi Shastri  News18\r\n</li><li>Asia Cup 2022 Rahul Dravid tested positive for COVID-19 | Cricbuzz.com - Cricbuzz  Cricbuzz\r\n</li><li>Dravid tests positive for …",
+      "url": "https://www.news18.com/cricketnext/news/take-couple-of-paracetamols-and-rahul-dravid-would-be-back-in-time-for-india-vs-pakistan-ravi-shastri-5807953.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2022/05/ravi-shastri-india-coach-1600-afp-165365765416x9.jpg",
+      "publishedAt": "2022-08-23T13:04:24Z",
+      "content": "Former India head coach Ravi Shastri feels that things have changed now as he considers COVID-19 as flu. Rahul Dravid has tested positive for COVID-19 and didnt accompany the Rohit Sharma-led team th… [+2055 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India.com"
+      },
+      "author": "Akash Kharade",
+      "title": "No Need of Jasprit Bumrah Now: Hardik Pandya impersonates India pacer in nets, fans react - Watch hilarious... - Zee News",
+      "description": "<ol><li>No Need of Jasprit Bumrah Now: Hardik Pandya impersonates India pacer in nets, fans react - Watch hilarious...  Zee News\r\n</li><li>'We missed him badly in last year's WC. There's no one close to him': Shastri  Hindustan Times\r\n</li><li>\"Need To Be Obs…",
+      "url": "https://zeenews.india.com/cricket/ind-vs-pak-asia-cup-2022-hardik-pandya-impersonates-jasprit-bumrah-in-nets-copies-india-pacers-celebration-watch-video-2500706.html",
+      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2022/08/23/1081150-5-2.jpg",
+      "publishedAt": "2022-08-23T11:49:50Z",
+      "content": "India pacer Jasprit Bumrah has been ruled out of the Asia Cup 2022 due to a back injury and he is also doubtful for the upcoming ICC T20 World Cup 2022 which is scheduled to be played in Australia. T… [+3014 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Sports Desk",
+      "title": "Watch: Zimbabwe bowler brings Shubman Gill's jersey to press meet, explains why - Hindustan Times",
+      "description": "<ol><li>Watch: Zimbabwe bowler brings Shubman Gill's jersey to press meet, explains why  Hindustan Times\r\n</li><li>Highlights India vs Zimbabwe 3rd ODI, Harare: IND Beat ZIM By 13 Runs To Complete Clean Sweep After Sikandar  Cricket Country News\r\n</li><li>'Th…",
+      "url": "https://www.hindustantimes.com/cricket/zimbabwe-bowler-brad-evans-brings-shubman-gill-s-jersey-to-press-conference-after-0-3-series-defeat-to-india-explains-why-watch-video-101661236759662.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/08/23/1600x900/Gill_shirt_1661236872873_1661236878406_1661236878406.JPG",
+      "publishedAt": "2022-08-23T06:47:16Z",
+      "content": "Zimbabwe cricketer Brad Evans had a brilliant outing against India in the third and final ODI of the series in Harare on Monday. He got the wickets of India's captain for the series KL Rahul, Shikhar… [+2007 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cricbuzz"
+      },
+      "author": null,
+      "title": "India tour of Zimbabwe, 2022: Axar Patel lauds Gill's batting skillset, terms it 'biggest positive' | Cricbuzz.com - Cricbuzz - Cricbuzz",
+      "description": "<ol><li>India tour of Zimbabwe, 2022: Axar Patel lauds Gill's batting skillset, terms it 'biggest positive' | Cricbuzz.com - Cricbuzz  Cricbuzz\r\n</li><li>Axar Patel highlights Shubman Gill's biggest positive after Harare heroics: He keeps rotating the strike …",
+      "url": "https://www.cricbuzz.com/cricket-news/123565/axar-lauds-gills-batting-skillset-terms-it-biggest-positive",
+      "urlToImage": "http://www.cricbuzz.com/a/img/v1/600x400/i1/c241262/it-was-good-to-see-the-way-av.jpg",
+      "publishedAt": "2022-08-23T04:10:56Z",
+      "content": "\"It was good to see the way Avesh khan was bowling the yorkers, the way Shardul Thakur was mixing up his slower ones and wide yorkers.\" © AFP\r\nIndia's attempt to challenge themselves by batting first… [+3235 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cricbuzz"
+      },
+      "author": null,
+      "title": "Oval Invincibles vs Birmingham Phoenix, 23rd Match, The Hundred Mens Competition 2022 - Cricbuzz",
+      "description": "<ol><li>Oval Invincibles vs Birmingham Phoenix, 23rd Match, The Hundred Mens Competition 2022  Cricbuzz\r\n</li><li>Kane Richardson, Tom Helm drive Phoenix to key victory  ESPNcricinfo\r\n</li><li>The Mens and Womens Hundred 2022: Tuesday 23rd August – Oval Invin…",
+      "url": "https://www.cricbuzz.com/cricket-commentary/43891/ovl-vs-brm-23rd-match-the-hundred-mens-competition-2022",
+      "urlToImage": null,
+      "publishedAt": "2022-08-23T18:03:49Z",
+      "content": "95 K Richardson to Milnes, FOUR, was a short ball, at the body, Milnes goes inside the line of the delivery and scoops it. Just managed to evade the dive from the keeper for the ball to run away to t… [+46 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Sports Desk",
+      "title": "'If Kohli hits 50 in 1st game, mouths will be shut': Shastri ahead of IND vs PAK - Hindustan Times",
+      "description": "<ol><li>'If Kohli hits 50 in 1st game, mouths will be shut': Shastri ahead of IND vs PAK  Hindustan Times\r\n</li><li>Asia Cup 2022: 'Virat Kohli Will Come Back With a Calmer Mind Because The Heat is Off' - Ravi Shastri  News18\r\n</li><li>India vs Pakistan:'Rish…",
+      "url": "https://www.hindustantimes.com/cricket/if-virat-kohli-gets-a-fifty-in-first-game-mouths-will-be-shut-ravi-shastri-ahead-of-india-vs-pakistan-asia-cup-tie-101661243470884.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/08/23/1600x900/shastri-kohli-getty-oppo_1661243664850_1661243670423_1661243670423.jpg",
+      "publishedAt": "2022-08-23T08:37:03Z",
+      "content": "Having gone without an international century for over 1000 days and battling poor form, Virat Kohli will be the cynosure of all eyes when India begin their campaign at the Asia Cup 2022 against arch-… [+2464 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Entertainment Desk",
+      "title": "Shefali Shah says ‘boycott Bollywood’ trend won’t last long - Hindustan Times",
+      "description": "<ol><li>Shefali Shah says ‘boycott Bollywood’ trend won’t last long  Hindustan Times\r\n</li><li>Delhi Crime 2 star Shefali Shah says wearing the uniform does something to you  India Today\r\n</li><li>5 Reasons To Watch Delhi Crime season 2 on Netflix  Ready Stea…",
+      "url": "https://www.hindustantimes.com/entertainment/bollywood/shefali-shah-says-boycott-bollywood-trend-won-t-last-long-101661262314569.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/08/23/1600x900/Shefali_Shah_1661262353411_1661262353672_1661262353672.jpg",
+      "publishedAt": "2022-08-23T13:57:26Z",
+      "content": "The chorus for boycotting Bollywood films has been growing louder over the past few months. In the recent times, several films such as Laal Singh Chaddha, Darlings, Raksha Bandhan, and Liger have fac… [+1571 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "NDTV Sports Desk",
+      "title": "\"Need To Be Observed...\" Ravi Shastri Picks Two India Stars Whose Workload Needs To Be Managed - NDTV Sports",
+      "description": "<ol><li>\"Need To Be Observed...\" Ravi Shastri Picks Two India Stars Whose Workload Needs To Be Managed  NDTV Sports\r\n</li><li>'We missed him badly in last year's WC. There's no one close to him': Shastri  Hindustan Times\r\n</li><li>No Need of Jasprit Bumrah No…",
+      "url": "https://sports.ndtv.com/asia-cup-2022/need-to-be-observed-ravi-shastri-picks-two-india-stars-whose-workload-needs-to-be-managed-3280572",
+      "urlToImage": "https://c.ndtvimg.com/2022-05/sso274sg_hardik-pandya-ravi-shastri-bcciipl_625x300_29_May_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
+      "publishedAt": "2022-08-23T17:30:35Z",
+      "content": "All the cricket world's focus is right now on the T20 World Cup. For the Rohit Sharma-led Team India, the 2022 edition of the T20 World Cup presents a great chance to end a nine-year-old drought - of… [+1584 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Sports Desk",
+      "title": "Watch: Gill, Kishan circle Raza after his dismissal, video now talk of the town - Hindustan Times",
+      "description": "<ol><li>Watch: Gill, Kishan circle Raza after his dismissal, video now talk of the town  Hindustan Times\r\n</li><li>IND vs ZIM 3rd ODI Highlights: India survive Sikandar Raza scare to win a thriller by 13 runs  The Indian Express\r\n</li><li>IND ZIM 3rd ODI High…",
+      "url": "https://www.hindustantimes.com/cricket/shubman-gill-ishan-kishan-circle-sikandar-raza-after-his-dismissal-video-becomes-talk-of-the-town-after-india-vs-zimbabe-3rd-odi-101661226802603.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/08/23/1600x900/kuldeep_Kishan_1661227066741_1661227074076_1661227074076.JPG",
+      "publishedAt": "2022-08-23T04:07:13Z",
+      "content": "If it was Shubman Gill for India, it was Sikandar Raza for Zimbabwe. And the Indian top-order batter perhaps outdid the Zimbabwe cricketer, at least in the third ODI in Harare on Monday, with a field… [+2370 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Firstpost"
+      },
+      "author": "FP Staff",
+      "title": "BJP leader and Bigg Boss 14 contestant Sonali Phogat dies of heart attack in Goa - Firstpost",
+      "description": "<ol><li>BJP leader and Bigg Boss 14 contestant Sonali Phogat dies of heart attack in Goa  Firstpost\r\n</li><li>Haryana BJP's Sonali Phogat, 42, Dies Of Heart Attack In Goa  NDTV\r\n</li><li>Latest Updates: Telangana BJP chief Bandi Sanjay arrested for protesting…",
+      "url": "https://www.firstpost.com/india/bjp-leader-and-bigg-boss-14-contestant-sonali-phogat-dies-of-heart-attack-in-goa-11098671.html",
+      "urlToImage": "https://images.firstpost.com/wp-content/uploads/2022/08/Sonali-Phogat.jpg",
+      "publishedAt": "2022-08-23T05:55:46Z",
+      "content": "On Monday, Sonali Phogat had complained of uneasiness to her staff after which she was rushed to a hospital in Goa\r\n Mumbai: Sonali Phogat, a Bharatiya Janata Party (BJP) leader from Haryana and actr… [+2030 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": null,
+      "title": "Had I walked into the dressing room, India would have won Manchester Test vs England in 2021: Ravi Shastri - India Today",
+      "description": "<ol><li>Had I walked into the dressing room, India would have won Manchester Test vs England in 2021: Ravi Shastri  India Today\r\n</li><li>Asia Cup 2022 Rahul Dravid tested positive for COVID-19 | Cricbuzz.com - Cricbuzz  Cricbuzz\r\n</li><li>India Head Coach Ra…",
+      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-ravi-shastri-rahul-dravid-covid-manchester-test-2021-1991522-2022-08-23",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202208/ravishastricovid-647x363.jpeg?TTB4PHRAqr2wtmnoXxFzC0SYTqY_TSBb",
+      "publishedAt": "2022-08-23T09:06:47Z",
+      "content": "Former India head coach Ravi Shastri said on Tuesday, August 23 said there is no need for panic when dealing with Covid-19 cases among players and members of the support staff in major tournaments, s… [+1901 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Sports Desk",
+      "title": "Shubman Gill smashes Sachin Tendulkar's 24-year-old massive ODI record - Hindustan Times",
+      "description": "Shubman Gill broke Sachin Tendulkar's long-standing record with maiden hundred in 3rd ODI against Zimbabwe in Harare. Gill smashed 130 off 97 balls as India beat Zimbabwe by 13 runs in the final ODI to complete a 3-0 clean sweep.",
+      "url": "https://www.hindustantimes.com/cricket/shubman-gill-smashes-sachin-tendulkar-s-24-year-old-massive-odi-record-with-maiden-international-century-against-zimbabwe-101661221607610.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/08/23/1600x900/gill_sachin_1661221711858_1661221723450_1661221723450.jpg",
+      "publishedAt": "2022-08-23T02:33:58Z",
+      "content": "With scores of 64, 43, 98*, 82*, 33 in his last five ODI innings, Shubman Gill was nudging closer to that elusive international hundred. He was denied by the rain in Sabina Park in the third ODI agai… [+2532 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Firstpost"
+      },
+      "author": "FP Explainers",
+      "title": "BJP leader and actor Sonali Phogat’s death once again puts spotlight on young India’s weak hearts - Firstpost",
+      "description": "<ol><li>BJP leader and actor Sonali Phogat’s death once again puts spotlight on young India’s weak hearts  Firstpost\r\n</li><li>Haryana BJP's Sonali Phogat, 42, Dies Of Heart Attack In Goa  NDTV\r\n</li><li>Latest Updates: Telangana BJP chief Bandi Sanjay arrest…",
+      "url": "https://www.firstpost.com/explainers/bjp-leader-and-actor-sonali-phogats-death-once-again-puts-spotlight-on-young-indias-weak-hearts-10096301.html",
+      "urlToImage": "https://images.firstpost.com/wp-content/uploads/2021/10/sonali.jpg",
+      "publishedAt": "2022-08-23T07:15:05Z",
+      "content": "Unhealthy diet, sedentary lifestyle, smoking, high pollution levels and fast-paced social obligations have led to a rise in cardiovascular diseases among the youth of our nation\r\n Bharatiya Janata Pa… [+4695 chars]"
+    },
+    {
+      "source": {
+        "id": "news24",
+        "name": "News24"
+      },
+      "author": "Lloyd Burnard",
+      "title": "News24.com | Bavuma has 'acceptance' over scrapped Aussie tour despite Proteas' World Cup complications",
+      "description": "Captain Temba Bavuma says there is an \"acceptance\" of the decision taken to scrap the Proteas' all-important ODI series against Australia in January.",
+      "url": "https://www.news24.com/sport/Cricket/Proteas/bavuma-has-acceptance-over-scrapped-aussie-tour-despite-proteas-world-cup-complications-20220823",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/3343/f113f072233d49b4a80ab73cb44aed34.jpg",
+      "publishedAt": "2022-08-23T12:50:44Z",
+      "content": "<ul><li>The Proteas are dealing with the \"realistic\" possibility of taking the long route towards securing 2023 World Cup qualification. </li><li>That path was made even more difficult after Cricket … [+2821 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "England's Stokes opens up about anxiety medication",
+      "description": "England test captain Ben Stokes kept the dialogue on mental health going as the all-rounder revealed he was still on anxiety medication after returning from a six-month break to focus on his wellbeing.The 31-year-old took a rest from the sport last year to fo…",
+      "url": "https://www.channelnewsasia.com/sport/englands-stokes-opens-about-anxiety-medication-2894151",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--wNh2T_GX--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-08-23t001939z_2_lynxmpei7m005_rtroptp_3_cricket-test-eng-zaf.jpg?itok=0CKj2m00",
+      "publishedAt": "2022-08-23T00:17:02Z",
+      "content": "England test captain Ben Stokes kept the dialogue on mental health going as the all-rounder revealed he was still on anxiety medication after returning from a six-month break to focus on his wellbein… [+1546 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "India's Gill dedicates maiden ton to hard-to-please dad",
+      "description": "India's Shubman Gill dedicated his maiden international hundred to his father after getting \"schooled\" by him for missing the mark earlier, the top order batsman said after his match-winning 130 in the third one-dayer against Zimbabwe in Harare.Gill's hundred…",
+      "url": "https://www.channelnewsasia.com/sport/indias-gill-dedicates-maiden-ton-hard-please-dad-2894581",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--jwN_js9H--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-08-23t052110z_2_lynxmpei7m03v_rtroptp_3_cricket-england-lcc-ind.jpg?itok=y-_xZs_z",
+      "publishedAt": "2022-08-23T05:21:10Z",
+      "content": "India's Shubman Gill dedicated his maiden international hundred to his father after getting \"schooled\" by him for missing the mark earlier, the top order batsman said after his match-winning 130 in t… [+1370 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "Maharaj hopes S.Africa have struck psychological blow against England",
+      "description": "MANCHESTER, England : South Africa spinner Keshav Maharaj hopes his side's first test win over England week has dented home morale ahead of the second clash, which begins at Old Trafford on Thursday.Maharaj was one of the mainstays of a victory by an innings …",
+      "url": "https://www.channelnewsasia.com/sport/maharaj-hopes-safrica-have-struck-psychological-blow-against-england-2895361",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--TAk8B9rh--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-08-23t124319z_1_lynxmpei7m0fs_rtroptp_3_cricket-test-eng-zaf-preview.jpg?itok=H2IYBxA4",
+      "publishedAt": "2022-08-23T12:43:19Z",
+      "content": "MANCHESTER, England : South Africa spinner Keshav Maharaj hopes his side's first test win over England week has dented home morale ahead of the second clash, which begins at Old Trafford on Thursday.… [+1660 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "Richard Eden",
+      "title": "EDEN CONFIDENTIAL: Secret wedding for Jonathan Aitken's love child Petra Khashoggi and Daniel Barker",
+      "description": "RICHARD EDEN: She's the willowy beauty who grew up in the super-yacht world of flamboyant billionaire arms dealer Adnan Khashoggi, whom she believed to be her father.",
+      "url": "https://www.dailymail.co.uk/tvshowbiz/article-11139359/EDEN-CONFIDENTIAL-Secret-wedding-Jonathan-Aitkens-love-child-Petra-Khashoggi-Daniel-Barker.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2022/08/23/21/61660201-0-image-a-20_1661287107228.jpg",
+      "publishedAt": "2022-08-23T21:02:36Z",
+      "content": "She's the willowy beauty who grew up in the super-yacht world of flamboyant billionaire arms dealer Adnan Khashoggi, whom she believed to be her father.\r\nBut, aged 18, Petra Khashoggi discovered she … [+5888 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GamesRadar+"
+      },
+      "author": "bradley.russell@futurenet.com (Bradley Russell)",
+      "title": "Disney Plus Day trailer reveals why next month could be unmissable for subscribers",
+      "description": "Disney unveils the first look at Pinocchio (and more)",
+      "url": "https://www.gamesradar.com/disney-plus-day-trailer-pinocchio/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZdP7GBjrtrY7S3eKn8iQj8-1200-80.jpg",
+      "publishedAt": "2022-08-23T11:25:27Z",
+      "content": "Disney has released a new trailer for Disney Plus Day on September 8 – including the first full look at the live-action Pinocchio. The \"It’s Coming\" teaser begins with a reveal of Thor: Love and Thun… [+1543 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Worldsoccertalk.com"
+      },
+      "author": "World Soccer Talk",
+      "title": "Where to find Bolton Wanderers vs. Aston Villa on US TV",
+      "description": "Here are all of the details of where you can watch Bolton Wanderers vs. Aston Villa on US television and via legal streaming: WHO Bolton Wanderers vs. Aston Villa WHAT English League Cup WHEN 2:40pm ET / 11:40am PT • Tuesday, August 23, 2022 WHERE ESPN+ STREA…",
+      "url": "https://worldsoccertalk.com/2022/08/23/where-to-find-bolton-wanderers-vs-aston-villa-on-us-tv/",
+      "urlToImage": "https://worldsoccertalk.com/wp-content/uploads/2022/08/bolton-villa-leaguecup-1000x600.jpg",
+      "publishedAt": "2022-08-23T07:00:34Z",
+      "content": "Here are all of the details of where you can watch Bolton Wanderers vs. Aston Villa on US television and via legal streaming:\r\n<table><tr><td>WHO</td><td>Bolton Wanderers vs. Aston Villa</td></tr><tr… [+2040 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Worldsoccertalk.com"
+      },
+      "author": "World Soccer Talk",
+      "title": "Where to find Fleetwood Town vs. Everton on US TV",
+      "description": "Here are all of the details of where you can watch Fleetwood Town vs. Everton on US television and via legal streaming: WHO Fleetwood Town vs. Everton WHAT English League Cup WHEN 2:40pm ET / 11:40am PT • Tuesday, August 23, 2022 WHERE ESPN+ STREAM WATCH NOW …",
+      "url": "https://worldsoccertalk.com/2022/08/23/where-to-find-fleetwood-town-vs-everton-on-us-tv/",
+      "urlToImage": "https://worldsoccertalk.com/wp-content/uploads/2022/08/fleetwood-everton-leaguecup-1000x600.jpg",
+      "publishedAt": "2022-08-23T07:01:40Z",
+      "content": "Here are all of the details of where you can watch Fleetwood Town vs. Everton on US television and via legal streaming:\r\n<table><tr><td>WHO</td><td>Fleetwood Town vs. Everton</td></tr><tr><td>WHAT</t… [+2022 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dagospia.com"
+      },
+      "author": null,
+      "title": "IL PAKISTAN E' SULL'ORLO DI UNA RIVOLTA POPOLARE - L'EX PRIMO MINISTRO IMRAN KHAN E' STATO ACCUSATO DALLA POLIZIA DI TERRORISMO PER AVER DENUNCIATO DEGLI EPISODI DI TORTURA DI CUI E' STATO VITTIMA UN SUO CONSIGLIERE - CENTINAIA DI SOSTENITORI DI KHAN SI SONO AMMASSATI FUORI DALLA SUA VILLA A ISLAMABAD PER PROTEGGERLO DALL'ARRESTO: \"DEVONO PASSARE SUI NOSTRI CORPI. CONQUISTEREMO LA CAPITALE CON IL POTERE DEL POPOLO\"...",
+      "description": "Monica Ricci Sargentini per il “Corriere della Sera”   IMRAN KHAN - 1 Il Pakistan rischia una rivolta popolare dopo che Imran Khan, primo ministro dal 2018 all'aprile del 2022, è stato accusato di terrorismo per aver denunciato «episodi di tortura» di cui sar…",
+      "url": "https://www.dagospia.com/rubrica-29/cronache/pakistan-39-sull-39-orlo-rivolta-popolare-39-ex-primo-321804.htm",
+      "urlToImage": "https://cdn-static.dagospia.com/img/patch/08-2022/imran-khan-islamabad-1706062.jpg",
+      "publishedAt": "2022-08-23T09:33:00Z",
+      "content": "Monica Ricci Sargentini per il “Corriere della Sera”\r\nIMRAN KHAN - 1\r\nIl Pakistan rischia una rivolta popolare dopo che Imran Khan, primo ministro dal 2018 all'aprile del 2022, è stato accusato di te… [+2301 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bdgest.com"
+      },
+      "author": "Philippe MAGNERON",
+      "title": "Interview : « Dragon est un héros dans ses paroles » - Entretien avec Simon Spruyt et Nicolas Juncker",
+      "description": "Revisiter l'Histoire s'apparente souvent à un exercice de style périlleux. Comment rendre un récit captivant en respectant un minimum l'authenticité de faits avérés tout en détournant astucieusement en dérision des personnages connus de tous ? Pour la recette…",
+      "url": "https://www.bdgest.com/news-1571-BD-Dragon-est-un-heros-dans-ses-paroles.html",
+      "urlToImage": "https://www.bdgest.com/images/news/1571_b.jpg",
+      "publishedAt": "2022-08-23T09:04:04Z",
+      "content": "Revisiter l'Histoire s'apparente souvent à un exercice de style périlleux. Comment rendre un récit captivant en respectant un minimum l'authenticité de faits avérés tout en détournant astucieusement … [+20583 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Ben Stokes: England Test captain on his break from cricket to prioritise mental health",
+      "description": "England Test captain Ben Stokes talks to BBC Breakfast about taking a mental health break from cricket having spent five months away from it in 2021 to prioritise his mental wellbeing.",
+      "url": "https://www.bbc.co.uk/sport/av/cricket/62633483",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/B5FE/production/_126409564_p0cvnr59.jpg",
+      "publishedAt": "2022-08-23T05:40:07Z",
+      "content": "England Test captain Ben Stokes talks to BBC Breakfast's John Watson about taking a mental health break from cricket, having spent five months away from the sport in 2021 to prioritise his mental wel… [+101 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Brydon Carse: Durham seamer signs new deal while Ned Eckersley departs",
+      "description": "England seamer Brydon Carse signs a three-year deal with Durham, while Ned Eckersley exits after his contract expired.",
+      "url": "https://www.bbc.co.uk/sport/cricket/62644379",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/A6EB/production/_126413724_bbc-sport-index-imagery-2-split-images-gradient-20151a8d-4280-40c3-bf46-8e5515952282.png",
+      "publishedAt": "2022-08-23T08:24:15Z",
+      "content": "Brydon Carse (left) has signed for three years, while Ned Eckersley ends a four-year spell at Durham\r\nEngland seamer Brydon Carse has signed a three-year deal with Durham Cricket, while wicketkeeper … [+703 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Vaughan Gething: Trump and Brexit set Wales back on race",
+      "description": "Trump and Brexit divisions have set back progress, claims Wales' first black cabinet minister.",
+      "url": "https://www.bbc.co.uk/news/uk-wales-62650792",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/390A/production/_126420641_still-vg1.jpg",
+      "publishedAt": "2022-08-23T21:58:22Z",
+      "content": "Wales has gone backwards on racial equality over the past decade, it has been claimed.\r\nThe warning has come from Vaughan Gething, who was the first black person to become a cabinet minister in any o… [+5690 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Acecomments.mu.nu"
+      },
+      "author": "Pixy Misa",
+      "title": "Daily Tech News 23 August 2022",
+      "description": "Top Story Buying a house may be time consuming, overly complicated, and of course terribly expensive, but renting isn't that great either. Particularly when having moved out of a place after fifteen years you get complaints that not everything is...",
+      "url": "https://acecomments.mu.nu/?post=400605",
+      "urlToImage": null,
+      "publishedAt": "2022-08-23T08:21:30Z",
+      "content": "<li>Katz's gluten free donuts are back in stock here in New House City after being absent for a few weeks. Got two boxes today to celebrate completing the move. (modulo some annoying details that wil… [+2292 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Spoilertv.com"
+      },
+      "author": "DarkUFO",
+      "title": "What's Coming to Disney+ September 2022",
+      "description": "",
+      "url": "https://www.spoilertv.com/2022/08/whats-coming-to-disney-september-2022.html",
+      "urlToImage": "https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1TnJK6bNpHF3znmrZHjv5ZVMTYjXlHdUobjKiR4MFb3K5rBlK5vuqgoEj7o1cgHErqgUFOqg3BpAVKxdUBy7t7rVNaXIwQNkBqP_9tYsM5sqnB93MA=w1200-h630-p-k-no-nu",
+      "publishedAt": "2022-08-23T07:15:00Z",
+      "content": "Thursday, September 1She-Hulk: Attorney at Law - Episode 3\r\nIn Marvel Studios’ “She-Hulk: Attorney at Law,” Jennifer Walters (Tatiana Maslany)—an attorney specializing in superhuman-oriented legal ca… [+19406 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Firstpost"
+      },
+      "author": "FP Trending",
+      "title": "How to secretly view someone’s Instagram Story without letting anyone know",
+      "description": "If you want to view someone’s Instagram Story without letting anyone know, there are a few tricks you can use",
+      "url": "https://www.firstpost.com/blogs/tech-blogs/how-to-secretly-view-someones-instagram-story-without-letting-anyone-know-11100561.html",
+      "urlToImage": "https://images.firstpost.com/wp-content/uploads/2018/06/RTX5F0UZ-1280-e1661248586485.jpg",
+      "publishedAt": "2022-08-23T09:56:43Z",
+      "content": "If you want to view someones Instagram Story without letting anyone know, there are a few tricks you can use\r\n Instagram Stories are one of the most popular ways right now to update the world about w… [+2138 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Firstpost"
+      },
+      "author": "FP Trending",
+      "title": "How to find saved Wi-Fi passwords on your Windows 11, 10 systems",
+      "description": "If your system has Windows 7, Windows 8.1, Windows 10 or Windows 11 and is already connected to the Wi-Fi network, you can easily find your password.",
+      "url": "https://www.firstpost.com/tech/news-analysis/how-to-find-saved-wi-fi-passwords-on-your-windows-11-10-systems-11101411.html",
+      "urlToImage": "https://images.firstpost.com/wp-content/uploads/2022/04/Explained-Windows-11-Issues-1.jpg",
+      "publishedAt": "2022-08-23T13:32:13Z",
+      "content": "FP TrendingAug 23, 2022 19:12:40 IST\r\nOne of the biggest benefits of the modern world is Wi-Fi. However, it can be tough to remember different Wi-Fi passwords for your home and office networks, unles… [+1639 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Firstpost"
+      },
+      "author": "FP Trending",
+      "title": "James Webb Space Telescope captures Jupiter like never before",
+      "description": "Jupiter’s images are some of the most iconic space images that nearly everyone has seen. New images from the JWS telescope show the planet with new details.",
+      "url": "https://www.firstpost.com/tech/news-analysis/james-webb-space-telescope-captures-jupiter-like-never-before-11101571.html",
+      "urlToImage": "https://images.firstpost.com/wp-content/uploads/2021/01/Cloudless-Hot-Jupiter_M-Weiss_CfA.jpg",
+      "publishedAt": "2022-08-23T12:18:31Z",
+      "content": "FP TrendingAug 23, 2022 19:12:44 IST\r\nThe images of the planets of our solar system are some of the most iconic pictures that humans have captured. Jupiters pictures, the largest planet in our solar … [+2260 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "Josh Alston",
+      "title": "Essendon legend Matthew Lloyd blasts players for backing Ben Rutten just before he was sacked",
+      "description": "Bombers legend Matthew Lloyd has led a chorus of voices slamming Essendon players for supporting their coach when his position was already terminal, calling for accountability.",
+      "url": "https://www.dailymail.co.uk/sport/afl/article-11136151/Essendon-legend-Matthew-Lloyd-blasts-players-backing-Ben-Rutten-just-sacked.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2022/08/23/01/61628805-0-image-a-15_1661213139948.jpg",
+      "publishedAt": "2022-08-23T01:03:41Z",
+      "content": "Bombers legend Matthew Lloyd has called for the struggling club's players to be held accountable after a disastrous 2022 season that saw coach Ben Rutten sacked on the weekend - and accused them of h… [+3364 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Elespanol.com"
+      },
+      "author": "Iván Cáceres",
+      "title": "El 'Campo de sueños' del cricket español: final feliz tras más de 20 años para poder jugar en Madrid",
+      "description": "El Madrid Cricket Club ha conseguido después de mucho tiempo un campo en La Elipa donde poder practicar el deporte en las mejores condiciones.",
+      "url": "https://www.elespanol.com/deportes/otros-deportes/20220823/campo-suenos-cricket-espanol-final-feliz-madrid/697430460_0.html",
+      "urlToImage": "https://s1.eestatic.com/2022/08/22/deportes/otros-deportes/697440603_226608246_600x315.jpg",
+      "publishedAt": "2022-08-23T00:15:00Z",
+      "content": "El cricketno es, ni mucho menos, uno de los deportes mayoritarios en España, pero eso no significa que millones de personas en todo el mundo no lo sigan día a día en otros países como la India, Pakis… [+6022 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Nikunj Dalmia",
+      "title": "Inflation has peaked, CAD manageable; macros and financial sector resilient: Shaktikanta Das",
+      "description": "“We are living in a very dynamic world and the central bank has to become a dynamic organisation in terms of actions – not action for the sake of action but action because it is necessary. We have to be in tune with the times and also anticipate emerging deve…",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/inflation-has-peaked-cad-manageable-macros-and-financial-sector-resilient-shaktikanta-das/articleshow/93728713.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-93728719,width-1070,height-580,imgsize-32866,overlay-etmarkets/photo.jpg",
+      "publishedAt": "2022-08-23T09:21:31Z",
+      "content": "We always like to choose the short, depending on each ball. In cricket, sometimes you have to play front foot, sometimes you have to play back foot but by and large in the last two and a half-three y… [+19001 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "El Financiero"
+      },
+      "author": "Bloomberg",
+      "title": "‘Soplón’ en Twitter le ‘echa la mano’ a Musk: Exjefe de seguridad denuncia fallas en manejo de información",
+      "description": "Peiter Zatko, exjefe de seguridad de Twitter, alegó “deficiencias notorias” en las defensas de la app contra los piratas informáticos y otros enfoques laxos de seguridad.",
+      "url": "https://www.elfinanciero.com.mx/empresas/2022/08/23/soplon-en-twitter-le-echa-la-mano-a-musk-exjefe-de-seguridad-denuncia-fallas-en-manejo-de-informacion/",
+      "urlToImage": "https://www.elfinanciero.com.mx/resizer/ddk1IAW9RQo-YLia3dwZm63JUv8=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/NG3WJIPARJAS3CK5D72MFJK5V4.jpg",
+      "publishedAt": "2022-08-23T20:37:05Z",
+      "content": "La acusación del exjefe de seguridad de Twitter, que denuncia graves deficiencias en el manejo de los datos personales de los usuarios por parte de la empresa de redes sociales, tendrá amplias ramifi… [+4195 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "author": null,
+      "title": "Prime Video and DIRECTV to Provide Thursday Night Football to 300,000+ Sports Bars, Restaurants, Hotel Lounges, Other Venues",
+      "description": "Agreement with DIRECTV for Business ensures NFL fans have access to Prime Video's exclusive prime time package of TNF games in high definition while out with friends and family NEW YORK and EL SEGUNDO, Calif., Aug. 23, 2022 /PRNewswire/ -- Amazon and DIRECTV …",
+      "url": "https://www.prnewswire.com/news-releases/prime-video-and-directv-to-provide-thursday-night-football-to-300-000-sports-bars-restaurants-hotel-lounges-other-venues-301610409.html",
+      "urlToImage": null,
+      "publishedAt": "2022-08-23T12:00:00Z",
+      "content": "Agreement with DIRECTV for Business ensures NFL fans have access to Prime Video's exclusive prime time package of TNF games in high definition while out with friends and family\r\nNEW YORK and EL SEGUN… [+6842 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "Vishesh Roy",
+      "title": "'T20 Becoming Business, But Test Cricket Is Still The Pinnacle': Stokes",
+      "description": "The left-handed batter Stokes has said that T20 cricket is now sort of becoming a \"business\", but Test cricket will continue to be the pinnacle and his main job is to promote the longest format of the game.",
+      "url": "https://sports.ndtv.com/cricket/t20-becoming-business-but-test-cricket-is-still-the-pinnacle-ben-stokes-3277437",
+      "urlToImage": "https://c.ndtvimg.com/2022-07/pl3v5gc8_ben-stokes-afp_625x300_07_July_22.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
+      "publishedAt": "2022-08-23T01:22:29Z",
+      "content": "England Test captain Ben Stokes is one of the best all-rounders in modern-day cricket, however, recognising his heavy workload, the star player had announced his retirement from ODI cricket earlier t… [+5575 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "Tushar Mamgaain",
+      "title": "Watch: Kuldeep, Ishan's Heartwarming Gesture For Sikandar Raza",
+      "description": "The cricket fans all-over the world, got to witness a heartfelt moment when Ishan Kishan and Kuldeep Yadav came to laud Raza after his dismissal.",
+      "url": "https://sports.ndtv.com/zimbabwe-vs-india-2022/kuldeep-yadav-ishan-kishans-heartwarming-gesture-for-sikandar-raza-during-3rd-odi-watch-3278354",
+      "urlToImage": "https://c.ndtvimg.com/2022-08/1rbc7eb_ishan-kishan-and-kuldeep-yadav_625x300_23_August_22.jpg",
+      "publishedAt": "2022-08-23T08:13:37Z",
+      "content": "Sikandar Raza garnered a lot of applause as he scored a century for Zimbabwe while chasing a mammoth target of 290 against India in the third and final ODI of the three-match series on Monday at Hara… [+2068 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "NDTV Sports Desk",
+      "title": "Legends League Cricket: Delhi To Host Matches From September 24-26",
+      "description": "The organisers of Legends League Cricket announced the full schedule and venues for the upcoming second edition of the tournament on Tuesday.",
+      "url": "https://sports.ndtv.com/cricket/legends-league-cricket-delhi-to-host-matches-from-september-24-26-3278657",
+      "urlToImage": "https://c.ndtvimg.com/2020-11/h6i1pnfg_cricket-bat-ball-afp_625x300_20_November_20.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
+      "publishedAt": "2022-08-23T09:43:37Z",
+      "content": "The organisers of Legends League Cricket announced the full schedule and venues for the upcoming second edition of the tournament on Tuesday. This season is scheduled to be played in six cities off w… [+1869 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "Vishesh Roy",
+      "title": "\"After The First ODI Against India...\": Ben Stokes On ODI Retirement",
+      "description": "England all-rounder Ben Stokes played his last ODI on July 19 against South Africa at Chester-le-Street",
+      "url": "https://sports.ndtv.com/cricket/after-the-first-odi-against-india-ben-stokes-on-odi-retirement-3278042",
+      "urlToImage": "https://c.ndtvimg.com/2022-07/pqfukii8_ben-stokes_625x300_20_July_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
+      "publishedAt": "2022-08-23T06:36:27Z",
+      "content": "Ben Stokes shocked the world earlier this year when he announced that he would be retiring from ODI cricket. The 2019 World Cup-winning star played his last ODI on July 19 against South Africa at his… [+4480 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "Asian News International",
+      "title": "West Indies Penalized For Slow Over-Rate, Road To India 2023 Suffers Blow",
+      "description": "The World Cup Qualifier in Zimbabwe would be the only route for West Indies to reach India in 2023 if they finish outside the top eight in terms of Super League rankings.",
+      "url": "https://sports.ndtv.com/cricket/west-indies-penalized-for-slow-over-rate-road-to-india-2023-suffers-a-blow-3280681",
+      "urlToImage": "https://c.ndtvimg.com/2022-07/p7dgama8_nicholas-pooran-afp_650x400_24_July_22.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
+      "publishedAt": "2022-08-23T18:10:09Z",
+      "content": "The direct qualification road to ICC Cricket World Cup 2023 for the West Indies cricket team seems more distant now after two Super League points were deducted in connection with slow over-rate in th… [+1818 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "Agence France-Presse",
+      "title": "England Test Captain Ben Stokes Reveals He Takes Anxiety Medication",
+      "description": "England Test captain Ben Stokes has revealed he takes anxiety medication every day to help his battle with mental health issues.",
+      "url": "https://sports.ndtv.com/cricket/england-test-captain-ben-stokes-reveals-he-takes-anxiety-medication-3278708",
+      "urlToImage": "https://c.ndtvimg.com/2022-08/fmcjvi0g_ben-stokes-afp-_625x300_20_August_22.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
+      "publishedAt": "2022-08-23T09:58:53Z",
+      "content": "England Test captain Ben Stokes has revealed he takes anxiety medication every day to help his battle with mental health issues. Stokes stepped away from cricket last year to focus on his mental heal… [+2170 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "NDTV Sports Desk",
+      "title": "Watch: Fan Asks Dhawan For His \"Shirt\". Here's His Hilarious Reaction",
+      "description": "In a viral video, a man is holding a placard with the caption: \"Shikhar, Can I have yo shirt\". In the same video, it can be seen that Dhawan is almost taking off his shirt while sitting in the dugout",
+      "url": "https://sports.ndtv.com/zimbabwe-vs-india-2022/fan-asks-shikhar-dhawan-for-his-shirt-during-zimbabwe-odi-heres-his-hilarious-reaction-watch-3277878",
+      "urlToImage": "https://c.ndtvimg.com/2022-08/ac36fjhg_photo-of-the-fan-holding-the-placard_625x300_23_August_22.jpg",
+      "publishedAt": "2022-08-23T05:40:12Z",
+      "content": "Shikhar Dhawan is a fun character both on and off the cricket field. He often posts hilarious stuff on social media while his on-field antics are sometimes quite funny too. In the final ODI of the th… [+1649 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "NDTV Sports Desk",
+      "title": "Watch: Pujara Scores Third Quick-fire Ton, Helps Sussex Notch 400",
+      "description": "Cheteshwar Pujara raced to his century in just 75 balls while playing for Sussex against Middlesex on Tuesday. He scored 132 runs off 90 balls.",
+      "url": "https://sports.ndtv.com/cricket/cheteshwar-pujara-scores-third-quick-fire-ton-helps-sussex-notch-400-in-royal-london-one-day-cup-watch-3280073",
+      "urlToImage": "https://c.ndtvimg.com/2022-08/5dntp9ao_cheteshwar-pujara-twitter_625x300_23_August_22.jpg",
+      "publishedAt": "2022-08-23T15:05:51Z",
+      "content": "Cheteshwar Pujara is going through some amazing form in the ongoing Royal London One-Day Cup. He increased his tally of hundreds in the tournament with yet another three-figure score on Tuesday. Repr… [+1396 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "Press Trust of India",
+      "title": "Krunal Pandya's Stay With Warwickshire Cut Short Due To Groin Injury",
+      "description": "Krunal Pandya had picked up the injury while batting during Warwickshire's first innings against Nottinghamshire on August 17",
+      "url": "https://sports.ndtv.com/cricket/krunal-pandyas-stay-with-warwickshire-cut-short-due-to-groin-injury-3278233",
+      "urlToImage": "https://c.ndtvimg.com/2022-03/7qd2nh88_krunal-pandya_625x300_29_March_22.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
+      "publishedAt": "2022-08-23T07:30:04Z",
+      "content": "Out-of-favour India all-rounder Krunal Pandya's stint with English county side Warwickshire was cut short after he sustained a groin injury, forcing him out of the ongoing Royal London One-Day Cup. T… [+1310 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "NDTV Sports Desk",
+      "title": "Watch: Dhawan And Co. Dance Like Crazy On 'Kala Chashma' Song Post Win",
+      "description": "In the video post by Shikhar Dhawan, the Indian team members can be seen dancing to the hit song 'Kala Chashma' from the movie 'Baar Baar Dekho'.",
+      "url": "https://sports.ndtv.com/zimbabwe-vs-india-2022/shikhar-dhawan-and-co-dance-like-crazy-on-kala-chashma-song-post-series-win-vs-zimbabwe-watch-3277527",
+      "urlToImage": "https://c.ndtvimg.com/2022-08/us2h5reo_team-india-dancing-_625x300_23_August_22.jpg",
+      "publishedAt": "2022-08-23T03:07:47Z",
+      "content": "It was memorable evening for the KL Rahul-led Indian cricket team as it defeated Zimbabwe by 13 runs in the third ODI to complete a 3-0 series sweep. Sikandar Raza scored a heroic ton to give India a… [+2238 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "NDTV Sports Desk",
+      "title": "Team India Coach Rahul Dravid Tests Positive For COVID-19",
+      "description": "Team India head coach Rahul Dravid has tested positive for COVID-19, the BCCI confirmed on Tuesday",
+      "url": "https://sports.ndtv.com/cricket/rahul-dravid-tests-positive-for-covid-19-news-agency-pti-3277934",
+      "urlToImage": "https://c.ndtvimg.com/2022-02/psav0v_rahul-dravid-afp_625x300_24_February_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
+      "publishedAt": "2022-08-23T05:59:49Z",
+      "content": "Team India head coach Rahul Dravid has tested positive for COVID-19, the Indian cricket board confirmed on Tuesday. \"Team India Head Coach Rahul Dravid has tested positive for COVID-19 in a routine t… [+1942 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "Press Trust of India",
+      "title": "How Shubman Scored First Ton After \"Bit Of Schooling\" From \"Primary Coach\"",
+      "description": "His heart was racing when he moved to the 90s and the fear of losing out on getting that elusive hundred did grip his mind but Shubhman Gill was determined to make it count this time, especially after getting a bit of \"schooling\" from his father.",
+      "url": "https://sports.ndtv.com/zimbabwe-vs-india-2022/india-vs-zimbabwe-how-shubman-gill-scored-his-first-ton-after-bit-of-schooling-from-his-primary-coach-3277541",
+      "urlToImage": "https://c.ndtvimg.com/2022-08/lfgle8fo_shubman-gill_625x300_22_August_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
+      "publishedAt": "2022-08-23T03:17:57Z",
+      "content": "His heart was racing when he moved to the 90s and the fear of losing out on getting that elusive hundred did grip his mind but Shubhman Gill was determined to make it count this time, especially afte… [+2539 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Maharashtratimes.com"
+      },
+      "author": null,
+      "title": "टी-२० क्रिकेट काही जणांसाठी धंदा बनलेला आहे, बेन स्टोक्स असं का म्हणाला जाणून घ्या...",
+      "description": "t 20 cricket : टी-२०मुळे खेळाचे स्वरुप बदलले आहे; पण अजूनही कसोटी महत्वाची आहे. कसोटी संपलेली नाही. ती अजूनही महत्त्वाची आहे, हे दाखवून देण्याची जबाबदारी माझ्यासह अनेक खेळाडूंवर आहे, असे इंग्लंडचा कर्णधार बेन स्टोक्सला वाटत आहे. या वेळी बेन स्टोक्सने बऱ्याच म…",
+      "url": "https://maharashtratimes.com/sports/cricket/cricket-news/t20-cricket-has-become-a-profession-for-some-says-ben-stokes/articleshow/93739071.cms",
+      "urlToImage": "https://maharashtratimes.com/photo/msid-93739094,imgsize-25546/pic.jpg",
+      "publishedAt": "2022-08-23T18:09:10Z",
+      "content": ": - , . . , .\r\n . , . . . . . , , . . . - , . . . . . . , , . - ; . . , , . \r\n . - . . . , , , .\r\n ? . - . . - . , ."
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "'Chess isn't the new cricket.' Magnus Carlsen's 4-pointer to Twitter user's comparison after losing match to Praggnanandhaa",
+      "description": "The first two matches of Carlsen vs Praggnanandhaa were drawn before the world No.1 went ahead by clinching the third.",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/chess-isnt-the-new-cricket-magnus-carlsens-4-pointer-to-twitter-users-comparison-after-losing-match-to-praggnanandhaa/articleshow/93721814.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-93722565,width-1070,height-580,imgsize-61054,overlay-etpanache/photo.jpg",
+      "publishedAt": "2022-08-23T04:52:37Z",
+      "content": "World chess champion Magnus Carlsen replied to a Twitter user after the person compared chess with cricket. The incident occurred on the backdrop of young Indian grandmaster R Praggnanandhaa emerging… [+3232 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Team India grooves to 'Kala Chashma' in the dressing room after 13-run win over Zimbabwe",
+      "description": "Dhawan posted a video on his Instagram account of the team grooving to the hit song.",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/team-india-grooves-to-kala-chashma-in-the-dressing-room-after-13-run-win-over-zimbabwe/articleshow/93727534.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-93728237,width-1070,height-580,imgsize-33720,overlay-etpanache/photo.jpg",
+      "publishedAt": "2022-08-23T08:46:50Z",
+      "content": "The Indian cricket team had a 'Kala Chashma' moment in the dressing room after a 13-run win over Zimbabwe in the third One-Day International (ODI) game. The team, steered by K L Rahul, averted a scar… [+1395 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "David Moye",
+      "title": "Jerry Allison, Buddy Holly’s Drummer, Dies At 82",
+      "description": "The Rock & Roll Hall of Fame member also co-wrote classic songs like “That’ll Be the Day” and “Peggy Sue.”",
+      "url": "https://www.huffpost.com/entry/jerry-allison-buddy-holly-drummer-dead-at-82_n_6304ff3ae4b00c150d65387e",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6305016f2400005b009949a0.jpeg?cache=NpxaXRZ4f3&ops=1200_630",
+      "publishedAt": "2022-08-23T18:32:45Z",
+      "content": "Jerry Allison (top), drummer for rock legend Buddy Holly (bottom), died Monday at age 82. \r\nMusician Jerry Allison, a pioneering rock drummer who worked with rock legend Buddy Holly and his band The … [+3733 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Spotlight Special",
+      "title": "Legends League Cricket: Check here the schedule for upcoming season",
+      "description": "Three matches will be played in Eden Garden, Kolkata from 16th to 18th September, including the special match, which will be played between Indian Maharajas and World Giants, to commemorate the 75th Year of Indian Independence.",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/legends-league-cricket-check-here-the-schedule-for-upcoming-season/articleshow/93732148.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-93732137,width-1070,height-580,imgsize-11734,overlay-economictimes/photo.jpg",
+      "publishedAt": "2022-08-23T11:14:08Z",
+      "content": "The complete schedule and fixtures for upcoming season in September 2022 has been announced by Legends League Cricket. Six cities have been chosen for the season. Kolkata, New Delhi, Cuttack, Lucknow… [+1224 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "'We have been playing on the front foot since the outbreak of pandemic' : RBI Governor Shaktikanta Das",
+      "description": "In an exclusive interview to ET Now's Nikunj Dalmia, RBI Governor Shaktikanta Das talks about cricket, inflation and much more. Watch!",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/we-have-been-playing-on-the-front-foot-since-the-outbreak-of-pandemic-rbi-governor-shaktikanta-das/videoshow/93728775.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-93728775,width-1070,height-580,overlay-economictimes/photo.jpg",
+      "publishedAt": "2022-08-23T09:17:54Z",
+      "content": "In an exclusive interview to ET Now's Nikunj Dalmia, RBI Governor Shaktikanta Das talks about cricket, inflation and much more. Watch!"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "West Indies penalized for slow over-rate, road to India 2023 suffers a blow",
+      "description": "With wins worth, ten points, Ireland (9th on 68 points) has a better net run rate than the West Indies, and two victories against Bangladesh at home in the upcoming series would further bolster their ranking. Sri Lanka (10th on 62 points) and South Africa (11…",
+      "url": "https://economictimes.indiatimes.com/news/sports/west-indies-penalized-for-slow-over-rate-road-to-india-2023-suffers-a-blow/articleshow/93739314.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-93739374,width-1070,height-580,imgsize-84666,overlay-economictimes/photo.jpg",
+      "publishedAt": "2022-08-23T18:16:13Z",
+      "content": "Bridgetown [Barbados]: The direct qualification road to ICC Cricket World Cup 2023 for the West Indies cricket team seems more distant now after two Super League points were deducted in connection wi… [+1744 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "IANS",
+      "title": "India coach Rahul Dravid tests positive for Covid-19: Report",
+      "description": "Rahul Dravid did not travel to Zimbabwe for the recently-concluded three-match One-day International series, which the KL Rahul-led side won 3-0. Due to the busy international schedule, the coaching staff, including Dravid, batting coach Vikram Rathour and bo…",
+      "url": "https://economictimes.indiatimes.com/news/sports/india-coach-rahul-dravid-tests-positive-for-covid-19-report/articleshow/93722728.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-93722935,width-1070,height-580,imgsize-33714,overlay-economictimes/photo.jpg",
+      "publishedAt": "2022-08-23T05:13:47Z",
+      "content": "Days before India's opening campaign in the Asia Cup T20 tournament in the UAE, the team has suffered a big blow with a report saying that head coach Rahul Dravid has tested positive for Covid-19.\r\nD… [+850 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Spotlight Special",
+      "title": "England captain Ben Stokes reveals he takes anxiety drugs",
+      "description": "England captain Ben Stokes appeared in an Amazon documnetary to talk about his mental illness. The documentary will be released on 26 August.",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/england-captain-ben-stokes-reveals-he-takes-anxiety-drugs/articleshow/93729954.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-93729928,width-1070,height-580,imgsize-67902,overlay-economictimes/photo.jpg",
+      "publishedAt": "2022-08-23T10:01:26Z",
+      "content": "England Test captain Ben Stokes has been struggling with issues relating to mental health. Recently, he has revealed that he takes anxiety medication every day.\r\nIn 2021, Stokes stopped playing to fo… [+1374 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "David Sanderson",
+      "title": "The 20 questions every man should ask on a first date: Man bites back with his own hook-up audit",
+      "description": "The 20 questions every man should ask on a first date: DAVID SANDERSON creates his own first dates audit - do you take photos of your breakfast, and how much do you drink (honestly)?",
+      "url": "https://www.dailymail.co.uk/femail/article-11139557/The-20-questions-man-ask-date-Man-bites-hook-audit.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2022/08/23/22/61661699-0-image-a-30_1661289827347.jpg",
+      "publishedAt": "2022-08-23T21:39:30Z",
+      "content": "After eight years of single life, Im looking for someone to spend time with and do nice things together. Its not too much to ask is it?\r\nBut as I read Julie Silvers 20 questions for a potential partn… [+11338 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "Ben Talintyre, Sam McPhee",
+      "title": "Prime Minister Anthony Albanese downs a beer at Gang of Youths concert at Enmore Theatre, Sydney",
+      "description": "The crowd at a Gang of Youths concert in Sydney erupted as Prime Minister Anthony Albanese downed a beer before raising his empty schooner to the cheers of an adoring audience.",
+      "url": "https://www.dailymail.co.uk/news/article-11136139/Prime-Minister-Anthony-Albanese-downs-beer-Gang-Youths-concert-Enmore-Theatre-Sydney.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2022/08/23/00/61628241-0-image-a-2_1661210679183.jpg",
+      "publishedAt": "2022-08-23T00:26:39Z",
+      "content": "Australian Prime Minister Anthony Albanese has stolen the show at an indie rock concert, downing a beer and having the time of his life.\r\nThe Labor leader was in the front row in the gallery at the E… [+2230 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Mark Maund, WSP Team Lead Regional NSW & ACT / Adjunct Senior Lecturer, University of Newcastle, Kim Maund, Deputy Head of School, School of Architecture and Built Environment, University of Newcastle, Thayaparan Gajendran, Associate Professor, School of Architecture and Built Environment, University of Newcastle",
+      "title": "Nearly 6 months on, flood victims are still waiting to be housed. This is what Australia must do to be ready for the next disaster",
+      "description": "The long delays in housing displaced flood victims point to the need to develop a permanent reserve of temporary housing to be available wherever and whenever disaster strikes.",
+      "url": "https://theconversation.com/nearly-6-months-on-flood-victims-are-still-waiting-to-be-housed-this-is-what-australia-must-do-to-be-ready-for-the-next-disaster-188883",
+      "urlToImage": "https://images.theconversation.com/files/480258/original/file-20220822-3952-sthw6p.jpg?ixlib=rb-1.1.0&rect=49%2C294%2C5472%2C2736&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2022-08-23T20:05:07Z",
+      "content": "This year’s floods in South-East Queensland and Northern New South Wales devastated communities. The NSW flooding was on “a scale never seen before”. More than 5,000 homes were left uninhabitable. Ma… [+6416 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mirror Online"
+      },
+      "author": "mirrornews@mirror.co.uk (Benjamin Roberts-Haslam, Kieren Williams)",
+      "title": "Dad-of-4 stranded at Mexican hospital after suffering seizure and banging his head",
+      "description": "Paul McKenna had been enjoying the final day of a family break in Cancun, Mexico when he suffered a seizure and fell, hitting his head",
+      "url": "https://www.mirror.co.uk/news/world-news/dad-4-stranded-mexican-hospital-27816956",
+      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article27816976.ece/ALTERNATES/s1200/0_Paul-McKenna.jpg",
+      "publishedAt": "2022-08-23T22:06:31Z",
+      "content": "A dad -of-four has been left stranded in a Mexican hospital after he suffered a seizure and banged his head at a hotel on the last day of his holiday. \r\n Paul McKenna had been enjoying a two-week get… [+2177 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mirror Online"
+      },
+      "author": "mirrornews@mirror.co.uk (Saffron Otter)",
+      "title": "Cambridge family's new Windsor life - 'scandalous' home, posh school and Meghan link",
+      "description": "Prince William and Kate Middleton are preparing for a new 'modest' life in the Windsor countryside - with Prince George, Princess Charlotte and Prince Louis all starting at the same £50k private school in September",
+      "url": "https://www.mirror.co.uk/news/royals/cambridge-familys-new-windsor-life-27802469",
+      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article27804519.ece/ALTERNATES/s1200/0_Squash-Commonwealth-Games-Day-5.jpg",
+      "publishedAt": "2022-08-23T05:40:25Z",
+      "content": "It is full steam ahead for the Duke and Duchess of Cambridge as they prepare for a new chapter of their lives - in Windsor.\r\nPrince William and Kate Middleton will move their family to the Queen's Be… [+7078 chars]"
+    }
+  ],
+  "avatar": [
+    {
+      "id": 1,
+      "img": "https://s3.ap-south-1.amazonaws.com/image.cricket.com/datadigest/d2093c655fff970c893d62e6f355715b2ce27a26.png"
+    },
+    {
+      "id": 2,
+      "img": "https://s3.ap-south-1.amazonaws.com/image.cricket.com/datadigest/453aaf421bc1087199fbd51833b77738cf4f6377.png"
+    },
+    {
+      "id": 3,
+      "img": "https://s3.ap-south-1.amazonaws.com/image.cricket.com/datadigest/f62a6cf67cbce5037a4c02a023a5b806ef3534dd.png"
+    },
+    {
+      "id": 4,
+      "img": "https://s3.ap-south-1.amazonaws.com/image.cricket.com/datadigest/4eec0f8505aa7b1172a8ca8126389c5b88384981.png"
+    },
+    {
+      "id": 5,
+      "img": "https://s3.ap-south-1.amazonaws.com/image.cricket.com/datadigest/6257d2eda461af5fe1f4168c13d13c457d73cf21.png"
+    },
+    {
+      "id": 6,
+      "img": "https://s3.ap-south-1.amazonaws.com/image.cricket.com/datadigest/b7be88db4ed72d29bec11d2a5ac271e705143652.png"
+    },
+    {
+      "id": 7,
+      "img": "https://s3.ap-south-1.amazonaws.com/image.cricket.com/datadigest/9e5c5d14bd79a895e66c2314b6c1f6628d4fc2b4.png"
+    },
+    {
+      "id": 8,
+      "img": "https://s3.ap-south-1.amazonaws.com/image.cricket.com/datadigest/8d7af975730cb8dc72fe7fb657bd19dbe263e5a9.png"
+    },
+    {
+      "id": 9,
+      "img": "https://s3.ap-south-1.amazonaws.com/image.cricket.com/datadigest/f1fe2624538691e627f133424d5edbd4598f29e0.png"
+    }
+  ],
+  "data": [
+    {
+      "id": "9f1ced41-d675-45b7-9ab3-617ba67ec3be",
+      "name": "Sri Lanka vs Bangladesh, 5th Match, Group B",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Dubai International Cricket Stadium, Dubai",
+      "date": "2022-09-01",
+      "dateTimeGMT": "2022-09-01T14:00:00",
+      "namea": "Bangladesh",
+      "shortnamea": "BAN",
+      "imga": "https://g.cricapi.com/img/teams/9-637877074109248302.webp",
+      "nameb": "Sri Lanka",
+      "shortnameb": "SL",
+      "imgb": "https://g.cricapi.com/img/teams/86-637877070226216908.webp",
+      "teams": ["Sri Lanka", "Bangladesh"],
+      "series_id": "de644e14-30f5-45f3-a773-0785380bdfd6",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false
+    },
+    {
+      "id": "b767f4e4-e91d-42af-b241-d78b4487c20f",
+      "name": "Bangladesh vs Afghanistan, 3rd Match, Group B",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "date": "2022-08-30",
+      "dateTimeGMT": "2022-08-30T14:00:00",
+      "namea": "Afghanistan",
+      "shortnamea": "AFG",
+      "imga": "https://g.cricapi.com/img/teams/1-637877075587179422.webp",
+      "nameb": "Bangladesh",
+      "shortnameb": "BAN",
+      "imgb": "https://g.cricapi.com/img/teams/9-637877074109248302.webp",
+      "teams": ["Bangladesh", "Afghanistan"],
+      "series_id": "de644e14-30f5-45f3-a773-0785380bdfd6",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false
+    },
+    {
+      "id": "f2970b82-74d3-430c-8ebe-cae4f74d1b35",
+      "name": "India vs Pakistan, 2nd Match, Group B",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Dubai International Cricket Stadium, Dubai",
+      "date": "2022-08-28",
+      "dateTimeGMT": "2022-08-28T14:00:00",
+      "namea": "India",
+      "shortnamea": "IND",
+      "imga": "https://g.cricapi.com/img/teams/31-637877061080567215.webp",
+      "nameb": "Pakistan",
+      "shortnameb": "PAK",
+      "imgb": "https://g.cricapi.com/img/teams/66-637877075103236690.webp",
+      "teams": ["India", "Pakistan"],
+      "series_id": "de644e14-30f5-45f3-a773-0785380bdfd6",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false
+    },
+    {
+      "id": "816a8c7a-6062-4c9e-aa1d-73c15aeb4f1a",
+      "name": "Sri Lanka vs Afghanistan, 1st Match, Group B",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Dubai International Cricket Stadium, Dubai",
+      "date": "2022-08-27",
+      "dateTimeGMT": "2022-08-27T14:00:00",
+      "namea": "Afghanistan",
+      "shortnamea": "AFG",
+      "imga": "https://g.cricapi.com/img/teams/1-637877075587179422.webp",
+      "nameb": "Sri Lanka",
+      "shortnameb": "SL",
+      "imgb": "https://g.cricapi.com/img/teams/86-637877070226216908.webp",
+      "teams": ["Sri Lanka", "Afghanistan"],
+      "series_id": "de644e14-30f5-45f3-a773-0785380bdfd6",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false
+    },
+    {
+      "id": "33e95702-e35e-45e0-a770-96a86fb7b2a9",
+      "name": "Netherlands Women vs Ireland Women, 3rd ODI",
+      "matchType": "odi",
+      "status": "Match not started",
+      "venue": "Sportpark Westvliet, The Hague",
+      "date": "2022-08-26",
+      "dateTimeGMT": "2022-08-26T09:00:00",
+      "namea": "Ireland Women",
+      "shortnamea": "IRW",
+      "imga": "https://g.cricapi.com/img/teams/1420-637926315409640205.png",
+      "nameb": "Netherlands Women",
+      "shortnameb": "NET-W",
+      "imgb": "https://g.cricapi.com/img/teams/1639-637926301346986959.webp",
+      "teams": ["Netherlands Women", "Ireland Women"],
+      "series_id": "da0dee1f-9a0f-41ee-907f-24aff86c8635",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false
+    },
+    {
+      "id": "7dd953f8-db02-4e4f-908e-a1250714047a",
+      "name": "Mysore Warriors vs Gulbarga Mystics, Qualifier 2",
+      "status": "Match not started",
+      "venue": "M.Chinnaswamy Stadium, Bengaluru",
+      "date": "2022-08-25",
+      "dateTimeGMT": "2022-08-25T13:30:00",
+      "namea": "Gulbarga Mystics",
+      "shortnamea": "GUM",
+      "imga": "https://h.cricapi.com/img/icon512.png",
+      "nameb": "Mysore Warriors",
+      "shortnameb": "MSW",
+      "imgb": "https://h.cricapi.com/img/icon512.png",
+      "teams": ["Mysore Warriors", "Gulbarga Mystics"],
+      "series_id": "2083a2e5-9f93-471b-88c4-b510b161ca43",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true
+    },
+    {
+      "id": "1569f857-db88-4b15-be73-06e6bdfee180",
+      "name": "West Indies Women vs New Zealand Women, 1st ODI",
+      "matchType": "odi",
+      "status": "Match not started",
+      "venue": "Sir Vivian Richards Stadium, North Sound, Antigua",
+      "date": "2022-09-16",
+      "dateTimeGMT": "2022-09-16T13:30:00",
+      "namea": "New Zealand Women",
+      "shortnamea": "NZW",
+      "imga": "https://g.cricapi.com/img/teams/58-637877077173296488.webp",
+      "nameb": "West Indies Women",
+      "shortnameb": "WIW",
+      "imgb": "https://g.cricapi.com/img/teams/102-637877078650138806.webp",
+      "teams": ["West Indies Women", "New Zealand Women"],
+      "series_id": "1c53b8a2-2f88-413c-8883-161f088022bd",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false
+    },
+    {
+      "id": "bc1fa50c-a00b-4cea-9ee4-8512ffe4b5ba",
+      "name": "Netherlands Women vs Ireland Women, 2nd ODI",
+      "matchType": "odi",
+      "status": "Ireland Women won by 211 runs",
+      "venue": "VRA Cricket Ground, Amstelveen",
+      "date": "2022-08-24",
+      "dateTimeGMT": "2022-08-24T09:00:00",
+      "namea": "Ireland Women",
+      "shortnamea": "IRW",
+      "imga": "https://g.cricapi.com/img/teams/1420-637926315409640205.png",
+      "nameb": "Netherlands Women",
+      "shortnameb": "NET-W",
+      "imgb": "https://g.cricapi.com/img/teams/1639-637926301346986959.webp",
+      "teams": ["Netherlands Women", "Ireland Women"],
+      "score": [
+        {
+          "r": 337,
+          "w": 8,
+          "o": 50,
+          "inning": "Ireland Women Inning 1"
+        },
+        {
+          "r": 126,
+          "w": 10,
+          "o": 33.2,
+          "inning": "Netherlands Women Inning 1"
+        }
+      ],
+      "series_id": "da0dee1f-9a0f-41ee-907f-24aff86c8635",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true
+    },
+    {
+      "id": "bdc7a9d8-ca83-4718-bdf6-a53e090bddd8",
+      "name": "Hong Kong vs United Arab Emirates, 6th Match",
+      "matchType": "t20",
+      "status": "Hong Kong opt to bowl",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "date": "2022-08-24",
+      "dateTimeGMT": "2022-08-24T16:00:00",
+      "namea": "Hong Kong",
+      "shortnamea": "HKG",
+      "imga": "https://g.cricapi.com/img/teams/611-637877089158155520.webp",
+      "nameb": "United Arab Emirates",
+      "shortnameb": "UAE",
+      "imgb": "https://g.cricapi.com/img/teams/92-637877081068315608.webp",
+      "teams": ["Hong Kong", "United Arab Emirates"],
+      "score": [
+        {
+          "r": 77,
+          "w": 4,
+          "o": 11.2,
+          "inning": "United Arab Emirates Inning 1"
+        }
+      ],
+      "series_id": "4d1a2932-9d3f-4a8c-a807-e40dce3cfe24",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true
+    },
+    {
+      "id": "5b7679bd-7458-4a1e-ad4e-82a9f9436b66",
+      "name": "Singapore vs Kuwait, 5th Match",
+      "matchType": "t20",
+      "status": "Kuwait won by 6 wkts",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "date": "2022-08-24",
+      "dateTimeGMT": "2022-08-24T12:00:00",
+      "namea": "Kuwait",
+      "shortnamea": "KUW",
+      "imga": "https://g.cricapi.com/img/teams/621-637864920257551899.webp",
+      "nameb": "Singapore",
+      "shortnameb": "SGP",
+      "imgb": "https://g.cricapi.com/img/teams/576-637877085561587712.webp",
+      "teams": ["Singapore", "Kuwait"],
+      "score": [
+        {
+          "r": 104,
+          "w": 10,
+          "o": 19.5,
+          "inning": "Singapore Inning 1"
+        },
+        {
+          "r": 105,
+          "w": 4,
+          "o": 7.5,
+          "inning": "Kuwait Inning 1"
+        }
+      ],
+      "series_id": "4d1a2932-9d3f-4a8c-a807-e40dce3cfe24",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true
+    },
+    {
+      "id": "ec702ec1-b98d-4dfc-ac01-1683c2a26486",
+      "name": "Bengaluru Blasters vs Gulbarga Mystics, Qualifier 1",
+      "status": "Bengaluru Blasters won by 44 runs",
+      "venue": "M.Chinnaswamy Stadium, Bengaluru",
+      "date": "2022-08-23",
+      "dateTimeGMT": "2022-08-23T13:30:00",
+      "namea": "Bengaluru Blasters",
+      "shortnamea": "BLB",
+      "imga": "https://g.cricapi.com/img/teams/121-637958374131884992.webp",
+      "nameb": "Gulbarga Mystics",
+      "shortnameb": "GUM",
+      "imgb": "https://h.cricapi.com/img/icon512.png",
+      "teams": ["Bengaluru Blasters", "Gulbarga Mystics"],
+      "score": [
+        {
+          "r": 227,
+          "w": 3,
+          "o": 20,
+          "inning": "Bengaluru Blasters Inning 1"
+        },
+        {
+          "r": 183,
+          "w": 10,
+          "o": 18.2,
+          "inning": "Gulbarga Mystics Inning 1"
+        }
+      ],
+      "series_id": "2083a2e5-9f93-471b-88c4-b510b161ca43",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true
+    },
+    {
+      "id": "505e3194-b8fc-4f52-8819-ba342ff6cb14",
+      "name": "Mysore Warriors vs Hubli Tigers, Eliminator",
+      "status": "Mysore Warriors won by 5 wkts",
+      "venue": "M.Chinnaswamy Stadium, Bengaluru",
+      "date": "2022-08-23",
+      "dateTimeGMT": "2022-08-23T09:30:00",
+      "namea": "Hubli Tigers",
+      "shortnamea": "HT",
+      "nameb": "Mysore Warriors",
+      "shortnameb": "MSW",
+      "imgb": "https://h.cricapi.com/img/icon512.png",
+      "imga": "https://g.cricapi.com/img/teams/179-637945148469792913.webp",
+      "teams": ["Mysore Warriors", "Hubli Tigers"],
+      "score": [
+        {
+          "r": 164,
+          "w": 7,
+          "o": 20,
+          "inning": "Hubli Tigers Inning 1"
+        },
+        {
+          "r": 166,
+          "w": 5,
+          "o": 19.1,
+          "inning": "Mysore Warriors Inning 1"
+        }
+      ],
+      "series_id": "2083a2e5-9f93-471b-88c4-b510b161ca43",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true
+    },
+    {
+      "id": "9b516608-376d-45e8-811c-1e144a096cfd",
+      "name": "Kuwait vs Hong Kong, 4th Match",
+      "matchType": "t20",
+      "status": "Hong Kong won by 8 wkts",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "date": "2022-08-23",
+      "dateTimeGMT": "2022-08-23T14:00:00",
+      "namea": "Hong Kong",
+      "shortnamea": "HKG",
+      "imga": "https://g.cricapi.com/img/teams/611-637877089158155520.webp",
+      "nameb": "Kuwait",
+      "shortnameb": "KUW",
+      "imgb": "https://g.cricapi.com/img/teams/621-637864920257551899.webp",
+      "teams": ["Kuwait", "Hong Kong"],
+      "score": [
+        {
+          "r": 151,
+          "w": 9,
+          "o": 20,
+          "inning": "Kuwait Inning 1"
+        },
+        {
+          "r": 153,
+          "w": 2,
+          "o": 17.4,
+          "inning": "Hong Kong Inning 1"
+        }
+      ],
+      "series_id": "4d1a2932-9d3f-4a8c-a807-e40dce3cfe24",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true
+    },
+    {
+      "id": "195f6acd-821c-48a6-b84c-66217b5300f1",
+      "name": "Hubli Tigers vs Mangalore United, 30th Match",
+      "status": "Hubli Tigers won by 6 wkts",
+      "venue": "M.Chinnaswamy Stadium, Bengaluru",
+      "date": "2022-08-22",
+      "dateTimeGMT": "2022-08-22T13:30:00",
+      "teams": ["Hubli Tigers", "Mangalore United"],
+      "namea": "Hubli Tigers",
+      "shortnamea": "HT",
+      "imga": "https://g.cricapi.com/img/teams/179-637945148469792913.webp",
+      "nameb": "Mangalore United",
+      "shortnameb": "MLORE",
+      "imgb": "https://g.cricapi.com/img/teams/219-637940203510636255.webp",
+      "score": [
+        {
+          "r": 184,
+          "w": 5,
+          "o": 20,
+          "inning": "Mangalore United Inning 1"
+        },
+        {
+          "r": 189,
+          "w": 4,
+          "o": 17.5,
+          "inning": "Hubli Tigers Inning 1"
+        }
+      ],
+      "series_id": "2083a2e5-9f93-471b-88c4-b510b161ca43",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true
+    },
+    {
+      "id": "b3db6ed0-ec5c-452b-b19c-57a96d4602bc",
+      "name": "Shivamogga vs Gulbarga Mystics, 29th Match",
+      "status": "Shivamogga Strikers won by 6 wkts",
+      "venue": "M.Chinnaswamy Stadium, Bengaluru",
+      "date": "2022-08-22",
+      "dateTimeGMT": "2022-08-22T09:30:00",
+      "namea": "Gulbarga Mystics",
+      "shortnamea": "GUM",
+      "imga": "https://h.cricapi.com/img/icon512.png",
+      "nameb": "Shivamogga Strikers",
+      "shortnameb": "SVS",
+      "imgb": "https://h.cricapi.com/img/icon512.png",
+      "teams": ["Shivamogga Strikers", "Gulbarga Mystics"],
+      "score": [
+        {
+          "r": 118,
+          "w": 9,
+          "o": 20,
+          "inning": "Gulbarga Mystics Inning 1"
+        },
+        {
+          "r": 54,
+          "w": 4,
+          "o": 6.3,
+          "inning": "Shivamogga Strikers Inning 1"
+        }
+      ],
+      "series_id": "2083a2e5-9f93-471b-88c4-b510b161ca43",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true
+    },
+    {
+      "id": "5862bd7c-c8c0-4eab-b34e-73b17ae32c8d",
+      "name": "United Arab Emirates vs Singapore, 3rd Match",
+      "matchType": "t20",
+      "status": "United Arab Emirates won by 47 runs",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "date": "2022-08-22",
+      "dateTimeGMT": "2022-08-22T14:00:00",
+      "namea": "Singapore",
+      "shortnamea": "SGP",
+      "imga": "https://g.cricapi.com/img/teams/576-637877085561587712.webp",
+      "nameb": "United Arab Emirates",
+      "shortnameb": "UAE",
+      "imgb": "https://g.cricapi.com/img/teams/92-637877081068315608.webp",
+      "teams": ["United Arab Emirates", "Singapore"],
+      "score": [
+        {
+          "r": 160,
+          "w": 8,
+          "o": 20,
+          "inning": "United Arab Emirates Inning 1"
+        },
+        {
+          "r": 113,
+          "w": 10,
+          "o": 18.3,
+          "inning": "Singapore Inning 1"
+        }
+      ],
+      "series_id": "4d1a2932-9d3f-4a8c-a807-e40dce3cfe24",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true
+    },
+    {
+      "id": "2bc0e59f-11fc-4fe5-ad78-bc3e977c9625",
+      "name": "Netherlands Women vs Ireland Women, 1st ODI",
+      "matchType": "odi",
+      "status": "Ireland Women won by 5 wkts",
+      "venue": "VRA Cricket Ground, Amstelveen",
+      "date": "2022-08-22",
+      "dateTimeGMT": "2022-08-22T09:00:00",
+      "namea": "Ireland Women",
+      "shortnamea": "IRW",
+      "imga": "https://g.cricapi.com/img/teams/1420-637926315409640205.png",
+      "nameb": "Netherlands Women",
+      "shortnameb": "NET-W",
+      "imgb": "https://g.cricapi.com/img/teams/1639-637926301346986959.webp",
+      "teams": ["Netherlands Women", "Ireland Women"],
+      "teamInfo": [{}, {}],
+      "score": [
+        {
+          "r": 84,
+          "w": 10,
+          "o": 32.5,
+          "inning": "Netherlands Women Inning 1"
+        },
+        {
+          "r": 87,
+          "w": 5,
+          "o": 19.3,
+          "inning": "Ireland Women Inning 1"
+        }
+      ],
+      "series_id": "da0dee1f-9a0f-41ee-907f-24aff86c8635",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true
+    },
+    {
+      "id": "36cf5d1a-19fb-47ab-a62d-48aa9e4215f0",
+      "name": "Hubli Tigers vs Bengaluru Blasters, 28th Match",
+      "status": "Bengaluru Blasters won by 2 runs",
+      "venue": "M.Chinnaswamy Stadium, Bengaluru",
+      "date": "2022-08-21",
+      "dateTimeGMT": "2022-08-21T13:30:00",
+      "namea": "Bengaluru Blasters",
+      "shortnamea": "BLB",
+      "imga": "https://g.cricapi.com/img/teams/121-637958374131884992.webp",
+      "nameb": "Hubli Tigers",
+      "shortnameb": "HT",
+      "imgb": "https://g.cricapi.com/img/teams/179-637945148469792913.webp",
+      "teams": ["Hubli Tigers", "Bengaluru Blasters"],
+      "teamInfo": [{}, {}],
+      "score": [
+        {
+          "r": 171,
+          "w": 8,
+          "o": 20,
+          "inning": "Bengaluru Blasters Inning 1"
+        },
+        {
+          "r": 169,
+          "w": 7,
+          "o": 20,
+          "inning": "Hubli Tigers Inning 1"
+        }
+      ],
+      "series_id": "2083a2e5-9f93-471b-88c4-b510b161ca43",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true
+    },
+    {
+      "id": "a72cc524-dcfc-4efc-8510-e0d86857f6fe",
+      "name": "Mysore Warriors vs Gulbarga Mystics, 27th Match",
+      "status": "Gulbarga Mystics won by 7 runs (VJD Method)",
+      "venue": "M.Chinnaswamy Stadium, Bengaluru",
+      "date": "2022-08-21",
+      "dateTimeGMT": "2022-08-21T09:30:00",
+      "namea": "Gulbarga Mystics",
+      "shortnamea": "GUM",
+      "imga": "https://h.cricapi.com/img/icon512.png",
+      "nameb": "Mysore Warriors",
+      "shortnameb": "MSW",
+      "imgb": "https://h.cricapi.com/img/icon512.png",
+      "teams": ["Mysore Warriors", "Gulbarga Mystics"],
+      "teamInfo": [{}, {}],
+      "score": [
+        {
+          "r": 148,
+          "w": 4,
+          "o": 17.3,
+          "inning": "Gulbarga Mystics Inning 1"
+        },
+        {
+          "r": 102,
+          "w": 7,
+          "o": 11,
+          "inning": "Mysore Warriors Inning 1"
+        }
+      ],
+      "series_id": "2083a2e5-9f93-471b-88c4-b510b161ca43",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true
+    },
+    {
+      "id": "774a78d0-7f06-49d9-bf62-e9e3de80c466",
+      "name": "United Arab Emirates vs Kuwait, 2nd Match",
+      "matchType": "t20",
+      "status": "Kuwait won by 1 wkt",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "date": "2022-08-21",
+      "dateTimeGMT": "2022-08-21T14:00:00",
+      "namea": "Kuwait",
+      "shortnamea": "KUW",
+      "imga": "https://g.cricapi.com/img/teams/621-637864920257551899.webp",
+      "nameb": "United Arab Emirates",
+      "shortnameb": "UAE",
+      "imgb": "https://g.cricapi.com/img/teams/92-637877081068315608.webp",
+      "teams": ["United Arab Emirates", "Kuwait"],
+      "teamInfo": [{}, {}],
+      "score": [
+        {
+          "r": 173,
+          "w": 5,
+          "o": 20,
+          "inning": "United Arab Emirates Inning 1"
+        },
+        {
+          "r": 177,
+          "w": 9,
+          "o": 19.5,
+          "inning": "Kuwait Inning 1"
+        }
+      ],
+      "series_id": "4d1a2932-9d3f-4a8c-a807-e40dce3cfe24",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true
+    },
+    {
+      "id": "d9bb8379-b372-44e6-9a15-1787d643ef4a",
+      "name": "Mysore Warriors vs Bengaluru Blasters, 26th Match",
+      "status": "Bengaluru Blasters won by 23 runs",
+      "venue": "M.Chinnaswamy Stadium, Bengaluru",
+      "date": "2022-08-20",
+      "dateTimeGMT": "2022-08-20T13:30:00",
+      "namea": "Bengaluru Blasters",
+      "shortnamea": "BLB",
+      "imga": "https://g.cricapi.com/img/teams/121-637958374131884992.webp",
+      "nameb": "Mysore Warriors",
+      "shortnameb": "MSW",
+      "imgb": "https://h.cricapi.com/img/icon512.png",
+      "teams": ["Mysore Warriors", "Bengaluru Blasters"],
+      "teamInfo": [{}, {}],
+      "score": [
+        {
+          "r": 157,
+          "w": 6,
+          "o": 20,
+          "inning": "Bengaluru Blasters Inning 1"
+        },
+        {
+          "r": 134,
+          "w": 9,
+          "o": 20,
+          "inning": "Mysore Warriors Inning 1"
+        }
+      ],
+      "series_id": "2083a2e5-9f93-471b-88c4-b510b161ca43",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true
+    },
+    {
+      "id": "8446f594-3292-47bc-9fa8-6b4c418ab56a",
+      "name": "Mangalore United vs Shivamogga Strikers, 25th Match",
+      "status": "Shivamogga Strikers won by 8 wkts",
+      "venue": "M.Chinnaswamy Stadium, Bengaluru",
+      "date": "2022-08-20",
+      "dateTimeGMT": "2022-08-20T09:30:00",
+      "namea": "Mangalore United",
+      "shortnamea": "MLORE",
+      "imga": "https://g.cricapi.com/img/teams/219-637940203510636255.webp",
+      "nameb": "Shivamogga Strikers",
+      "shortnameb": "SVS",
+      "imgb": "https://h.cricapi.com/img/icon512.png",
+      "teams": ["Mangalore United", "Shivamogga Strikers"],
+      "teamInfo": [{}],
+      "score": [
+        {
+          "r": 136,
+          "w": 8,
+          "o": 20,
+          "inning": "Mangalore United Inning 1"
+        },
+        {
+          "r": 137,
+          "w": 2,
+          "o": 12.2,
+          "inning": "Shivamogga Strikers Inning 1"
+        }
+      ],
+      "series_id": "2083a2e5-9f93-471b-88c4-b510b161ca43",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true
+    }
+  ]
+}
